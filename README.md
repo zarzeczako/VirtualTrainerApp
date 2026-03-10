@@ -126,6 +126,63 @@ npm run test:integration  # Integration tests
 
 ---
 
+## 🎬 Features Showcase
+
+### Smart Strength Predictions (IRM Analysis)
+Intelligent one-rep max predictions with trend analysis and progress tracking:
+
+<img src="docs/screenshots/01-ai-predictions.png" alt="AI Strength Predictions" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
+
+**Features:**
+- Real-time IRM calculations based on workout history
+- 1-month, 3-month, and 6-month trend forecasting
+- AI-powered predictions using historical performance data
+- Visual progress tracking with confidence intervals
+
+---
+
+### Intelligent Workout Analysis
+Advanced biomechanical analysis of your personalized training plan:
+
+<img src="docs/screenshots/02-workout-analysis.png" alt="Workout Plan Analysis" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
+
+**Metrics Analyzed:**
+- **Push/Pull Balance Ratio** – Ensures safe muscular development (optimal: 0.7–1.43)
+- **Target Muscle Coverage** – Visualizes muscle group frequency and volume
+- **Difficulty Consistency** – Confirms exercises match your strength level
+- **Movement Pattern Diversity** – Prevents repetitive strain injuries
+
+---
+
+### AI Trainer Chat (Dialogflow Integration)
+Real-time conversation with your personal AI fitness coach:
+
+<img src="docs/screenshots/03-ai-trainer-chat.png" alt="AI Trainer Chat" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
+
+**AI Coach Capabilities:**
+- Form correction and exercise technique guidance
+- Recovery recommendations and mobility tips
+- Progress analysis and goal adjustment suggestions
+- Personalized nutrition and supplementation advice
+- Motivation and real-time workout encouragement
+
+---
+
+### Guided Workout Instructions
+Step-by-step exercise guidance with AI-powered form recommendations:
+
+<img src="docs/screenshots/04-training-instructions.png" alt="Guided Training Instructions" width="100%" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15)">
+
+**Workout Coaching Features:**
+1. **Form Cues** – Detailed biomechanical breakdowns for each exercise
+2. **Progressive Overload** – Automatic load and rep recommendations
+3. **Rest Timing** – Optimal recovery periods between sets
+4. **Breathing Patterns** – Technique-specific breathing instructions
+5. **Position Execution** – Real-time positional adjustments
+6. **Advanced Techniques** – Drop sets, rest-pause sets, and advanced methods
+
+---
+
 ## 🔬 Technical Deep Dive
 
 ### 1. Plan Generation Algorithm
