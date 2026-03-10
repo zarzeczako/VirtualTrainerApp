@@ -1,0 +1,3827 @@
+[{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cde"
+  },
+  "apiId": "0043",
+  "name": "barbell full squat",
+  "name_pl": "Przysiad ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "quad",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, toes slightly turned out.",
+    "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+    "Engage your core and keep your chest up as you begin to lower your body down.",
+    "Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.",
+    "Lower yourself until your thighs are parallel to the ground or slightly below.",
+    "Keep your knees in line with your toes and your weight in your heels.",
+    "Drive through your heels to stand back up, extending your hips and knees.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość ramion, palce stóp lekko skierowane na zewnątrz.",
+    "Trzymaj sztangę na górnej części pleców, opierając ją na mięśniach czworobocznych lub tylnych mięśniach naramiennych.",
+    "Napnij mięśnie korpusu i unieś klatkę piersiową, zaczynając opuszczać ciało w dół.",
+    "Zegnij kolana i biodra, odchylając biodra do tyłu i w dół, tak jakbyś siadał na krześle.",
+    "Opuszczaj się, aż twoje uda znajdą się równolegle do podłoża lub lekko poniżej.",
+    "Utrzymuj kolana w jednej linii z palcami stóp i przenieś ciężar ciała na pięty.",
+    "Wyprostuj się, prostując biodra i kolana.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed903d"
+  },
+  "apiId": "1435",
+  "name": "barbell low bar squat",
+  "name_pl": "Przysiad ze sztangą nisko",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "quad",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and the barbell resting on your upper back.",
+    "Keeping your chest up and core engaged, slowly lower your body by bending your knees and pushing your hips back.",
+    "Continue lowering until your thighs are parallel to the ground or slightly below.",
+    "Pause for a moment, then push through your heels to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i sztangą opartą na górnej części pleców.",
+    "Trzymając klatkę piersiową uniesioną i napięty korpus, powoli opuść ciało, zginając kolana i wypychając biodra do tyłu.",
+    "Kontynuuj obniżanie, aż uda znajdą się równolegle do podłoża lub nieznacznie poniżej.",
+    "Zatrzymaj się na chwilę, a następnie odepchnij się piętami, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cdd"
+  },
+  "apiId": "0042",
+  "name": "barbell front squat",
+  "name_pl": "Przysiad ze sztangą z przodu",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t2",
+  "pattern": "quad",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart, toes slightly turned out.",
+    "Hold the barbell in front of your shoulders, resting it on your collarbone and shoulders.",
+    "Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.",
+    "Lower until your thighs are parallel to the ground, or as low as you can comfortably go.",
+    "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość ramion i lekko skieruj palce stóp na zewnątrz.",
+    "Trzymaj sztangę przed ramionami, opierając ją na obojczyku i ramionach.",
+    "Napnij mięśnie korpusu i unieś klatkę piersiową, jednocześnie obniżając ciało do pozycji przysiadu, odchylając biodra do tyłu i zginając kolana.",
+    "Opuszczaj ciało, aż uda znajdą się równolegle do podłoża, lub tak nisko, jak to tylko możliwe.",
+    "Zatrzymaj się na chwilę na dole, a następnie odepchnij się piętami, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8efc"
+  },
+  "apiId": "0739",
+  "name": "sled 45° leg press",
+  "name_pl": "Sanki 45° prasa do nóg",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "sled machine",
+  "role": "main_t2",
+  "pattern": "quad",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat and footplate of the sled machine to a comfortable position.",
+    "Sit on the sled machine with your back against the backrest and your feet shoulder-width apart on the footplate.",
+    "Grip the handles on the sides of the seat for stability.",
+    "Push the footplate away from your body by extending your legs, keeping your heels on the footplate.",
+    "Continue pushing until your legs are almost fully extended, but without locking your knees.",
+    "Pause for a moment at the top of the movement, then slowly lower the footplate back towards your body by bending your knees.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw siedzisko i podnóżek maszyny saneczkowej tak, aby zapewnić sobie wygodną pozycję.",
+    "Usiądź na sankach, opierając plecy o oparcie i ustawiając stopy na szerokość barków na podnóżku.",
+    "Aby zapewnić stabilność, chwyć uchwyty po bokach siedziska.",
+    "Odsuń podnóżek od ciała, prostując nogi i utrzymując pięty na podnóżku.",
+    "Kontynuuj wypychanie, aż nogi będą prawie całkowicie wyprostowane, ale nie blokuj kolan.",
+    "Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie powoli opuść podnóżek w stronę ciała, zginając kolana.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e7d"
+  },
+  "apiId": "0534",
+  "name": "kettlebell goblet squat",
+  "name_pl": "Przysiad z kettlebellem",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "kettlebell",
+  "role": "main_t2",
+  "pattern": "quad",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a kettlebell close to your chest with both hands.",
+    "Keeping your chest up and core engaged, lower your body down into a squat position by bending at the knees and hips.",
+    "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+    "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając odważnik kettlebell obiema rękami blisko klatki piersiowej.",
+    "Trzymając klatkę piersiową uniesioną i napięty korpus, obniż ciało do pozycji przysiadu, zginając kolana i biodra.",
+    "Kontynuuj obniżanie, aż uda znajdą się równolegle do podłoża lub tak nisko, jak to tylko możliwe.",
+    "Zatrzymaj się na chwilę na dole, a następnie odepchnij się piętami, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dda"
+  },
+  "apiId": "0336",
+  "name": "dumbbell lunge",
+  "name_pl": "Wypad z hantlami",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "dumbbell",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 4,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+    "Take a step forward with your right foot, lowering your body into a lunge position.",
+    "Keep your back straight and your chest up as you lower your body.",
+    "Push through your right heel to return to the starting position.",
+    "Repeat with your left leg.",
+    "Alternate legs for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając w każdej ręce hantel.",
+    "Zrób krok do przodu prawą nogą, opuszczając ciało do pozycji wypadu.",
+    "Opuszczając ciało, trzymaj plecy prosto i klatkę piersiową uniesioną.",
+    "Odepchnij się prawą piętą, aby powrócić do pozycji wyjściowej.",
+    "Powtórz z lewą nogą.",
+    "Wykonuj żądaną liczbę powtórzeń za pomocą zmiany nóg."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ce9"
+  },
+  "apiId": "0054",
+  "name": "barbell lunge",
+  "name_pl": "Wypad ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 5,
+  "is_unilateral": true,
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back.",
+    "Take a step forward with your right foot, keeping your torso upright.",
+    "Lower your body by bending your right knee until your thigh is parallel to the ground.",
+    "Push through your right heel to return to the starting position.",
+    "Repeat with your left leg, alternating legs for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i sztangą położoną na górnej części pleców.",
+    "Zrób krok do przodu prawą nogą, utrzymując tułów w pozycji wyprostowanej.",
+    "Opuść ciało, zginając prawe kolano, aż Twoje udo będzie równoległe do podłoża.",
+    "Odepchnij się prawą piętą, aby powrócić do pozycji wyjściowej.",
+    "Powtórz to samo z lewą nogą, zmieniając nogi, aby wykonać pożądaną liczbę powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e23"
+  },
+  "apiId": "0410",
+  "name": "dumbbell single leg split squat",
+  "name_pl": "Przysiad dzielony na jednej nodze z hantlami",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "dumbbell",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 6,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+    "Take a step forward with one foot and position your feet so that your front foot is flat on the ground and your back foot is elevated on a bench or step.",
+    "Lower your body by bending your front knee and hip, keeping your back knee slightly bent and your back heel off the ground.",
+    "Continue lowering until your front thigh is parallel to the ground, then push through your front heel to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs and repeat."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając w każdej ręce hantel.",
+    "Zrób krok do przodu jedną nogą i ustaw stopy tak, aby przednia stopa leżała płasko na ziemi, a tylna była uniesiona na ławce lub stopniu.",
+    "Obniż ciało, zginając przednie kolano i biodro, utrzymując tylne kolano lekko zgięte i tylną piętę uniesioną do góry.",
+    "Kontynuuj obniżanie, aż przednie udo znajdzie się równolegle do podłoża, a następnie odepchnij się piętą, aby powrócić do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, następnie zmień nogę i powtórz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed90e8"
+  },
+  "apiId": "1759",
+  "name": "single leg squat (pistol) male",
+  "name_pl": "Przysiad na jednej nodze (pistolet) mężczyzna",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 8,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and arms extended in front of you.",
+    "Lift your right foot off the ground and extend it forward.",
+    "Slowly lower your body down by bending your left knee and pushing your hips back.",
+    "Keep your chest up and your back straight as you lower yourself down.",
+    "Lower until your left thigh is parallel to the ground, or as low as you can comfortably go.",
+    "Pause for a moment at the bottom, then push through your left heel to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i wyciągnij ręce przed siebie.",
+    "Podnieś prawą stopę nad ziemię i wyciągnij ją do przodu.",
+    "Powoli opuść ciało, zginając lewe kolano i odchylając biodra do tyłu.",
+    "Podczas schodzenia trzymaj klatkę piersiową uniesioną i plecy proste.",
+    "Opuszczaj się, aż lewe udo będzie równoległe do podłoża, lub tak nisko, jak to tylko możliwe.",
+    "Zatrzymaj się na chwilę na dole, a następnie odepchnij się lewą piętą, aby powrócić do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, a następnie zmień nogę."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ea4"
+  },
+  "apiId": "0585",
+  "name": "lever leg extension",
+  "name_pl": "Wydłużenie nogi dźwigni",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "leverage machine",
+  "role": "isolation",
+  "pattern": "quad",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and backrest of the machine to fit your body.",
+    "Sit on the machine with your back against the backrest and your feet on the footpad.",
+    "Grasp the handles or sidebars for stability.",
+    "Extend your legs forward by straightening your knees, lifting the weight.",
+    "Pause for a moment at the top, then slowly lower the weight back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dopasuj wysokość siedziska i oparcia urządzenia do swojego ciała.",
+    "Usiądź na maszynie, opierając plecy o oparcie i stopy na podnóżku.",
+    "Aby zachować stabilność, trzymaj się uchwytów lub drążków bocznych.",
+    "Wyciągnij nogi do przodu, prostując kolana i unosząc ciężar.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciężar do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cd3"
+  },
+  "apiId": "0032",
+  "name": "barbell deadlift",
+  "name_pl": "Martwy ciąg ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "hinge",
+  "difficulty": 8,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and the barbell on the ground in front of you.",
+    "Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+    "Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees.",
+    "As you stand up straight, squeeze your glutes and keep your core engaged.",
+    "Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i połóż sztangę przed sobą na podłodze.",
+    "Zegnij kolana i zginaj biodra, aby obniżyć tułów i chwyć sztangę nachwytem, rozstawiając dłonie nieco szerzej niż na szerokość barków.",
+    "Trzymaj plecy prosto i uniesioną klatkę piersiową, jednocześnie unosząc sztangę piętami nad ziemię, wyciągając biodra i kolana.",
+    "Stań prosto, napnij pośladki i utrzymuj napięty korpus.",
+    "Opuść sztangę z powrotem na ziemię, zginając biodra i kolana i utrzymując proste plecy.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f2f"
+  },
+  "apiId": "0811",
+  "name": "trap bar deadlift",
+  "name_pl": "Martwy ciąg ze sztangą trap",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "trap bar",
+  "role": "main_t1",
+  "pattern": "hinge",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and the trap bar on the ground in front of you.",
+    "Bend at the hips and knees to lower yourself down and grip the handles of the trap bar with an overhand grip.",
+    "Keep your back straight and chest up as you begin to lift the trap bar off the ground by extending your hips and knees.",
+    "As you lift, focus on driving through your heels and squeezing your glutes at the top of the movement.",
+    "Lower the trap bar back down to the ground by bending at the hips and knees, keeping your back straight throughout the movement.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i połóż drążek na podłodze przed sobą.",
+    "Zegnij biodra i kolana, aby obniżyć ciało i chwyć uchwyty drążka nachwytem.",
+    "Trzymaj plecy prosto i klatkę piersiową uniesioną, a następnie zacznij unosić drążek nad ziemię, prostując biodra i kolana.",
+    "Podczas podnoszenia skup się na napędzaniu pięt i napinaniu pośladków w górnej fazie ruchu.",
+    "Opuść drążek z powrotem na ziemię, zginając biodra i kolana i utrzymując proste plecy przez cały czas wykonywania ruchu.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d26"
+  },
+  "apiId": "0117",
+  "name": "barbell sumo deadlift",
+  "name_pl": "Martwy ciąg sumo ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t2",
+  "pattern": "hinge",
+  "difficulty": 8,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet wider than shoulder-width apart, toes pointing outwards.",
+    "Place a barbell on the ground in front of you, centered between your feet.",
+    "Bend your knees and lower your hips, keeping your back straight and chest up, to grip the barbell with an overhand grip.",
+    "Engage your core and drive through your heels to lift the barbell off the ground, extending your hips and knees simultaneously.",
+    "As you lift, keep your chest up and back straight, and push your hips forward to fully engage your glutes.",
+    "Pause for a moment at the top, then slowly lower the barbell back down to the starting position, maintaining control throughout the movement.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi szerzej niż na szerokość ramion, skieruj palce stóp na zewnątrz.",
+    "Połóż sztangę na ziemi przed sobą, w środku między stopami.",
+    "Zegnij kolana i opuść biodra, utrzymując proste plecy i uniesioną klatkę piersiową, aby chwycić sztangę nachwytem.",
+    "Napnij mięśnie korpusu i unieś sztangę piętami nad ziemię, jednocześnie prostując biodra i kolana.",
+    "Podczas podnoszenia unieś klatkę piersiową i wyprostuj plecy, a także wypchnij biodra do przodu, aby w pełni zaangażować pośladki.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę do pozycji początkowej, utrzymując kontrolę przez cały czas wykonywania ruchu.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.221Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d07"
+  },
+  "apiId": "0085",
+  "name": "barbell romanian deadlift",
+  "name_pl": "Rumuński martwy ciąg ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t2",
+  "pattern": "hinge",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and your toes pointing forward.",
+    "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+    "Bend at the hips, keeping your back straight and your knees slightly bent.",
+    "Lower the barbell towards the ground, keeping it close to your body.",
+    "Feel the stretch in your hamstrings as you lower the barbell.",
+    "Once you feel a stretch in your hamstrings, push your hips forward and stand up straight.",
+    "Squeeze your glutes at the top of the movement.",
+    "Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i palcami stóp skieruj je do przodu.",
+    "Chwyć sztangę nachwytem, rozstawiając dłonie nieco szerzej niż na szerokość barków.",
+    "Zegnij biodra, utrzymując proste plecy i lekko ugięte kolana.",
+    "Opuszczaj sztangę w kierunku ziemi, trzymając ją blisko ciała.",
+    "Poczuj rozciąganie mięśni dwugłowych uda podczas opuszczania sztangi.",
+    "Gdy poczujesz rozciąganie mięśni dwugłowych uda, wypchnij biodra do przodu i wyprostuj się.",
+    "Napnij pośladki w górnej fazie ruchu.",
+    "Opuść sztangę z powrotem do pozycji wyjściowej i powtórz ćwiczenie żądaną liczbę razy."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9023"
+  },
+  "apiId": "1409",
+  "name": "barbell glute bridge",
+  "name_pl": "Mostek pośladkowy ze sztangą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "main_t2",
+  "pattern": "hinge",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Start by lying flat on your back on the ground with your knees bent and feet flat on the floor.",
+    "Place a barbell across your hips, holding it securely with both hands.",
+    "Engage your glutes and core muscles, then lift your hips off the ground until your body forms a straight line from your knees to your shoulders.",
+    "Pause for a moment at the top, squeezing your glutes.",
+    "Slowly lower your hips back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na plecach na podłodze ze zgiętymi kolanami i stopami płasko położonymi na podłodze.",
+    "Połóż sztangę na biodrach i trzymaj ją pewnie obiema rękami.",
+    "Napnij pośladki i mięśnie brzucha, a następnie unieś biodra z podłogi, aż Twoje ciało utworzy prostą linię od kolan do ramion.",
+    "Zatrzymaj się na chwilę na górze, napinając pośladki.",
+    "Powoli opuść biodra do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e8c"
+  },
+  "apiId": "0549",
+  "name": "kettlebell swing",
+  "name_pl": "Huśtawka z kettlebellem",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "kettlebell",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, toes pointed slightly outward.",
+    "Hold the kettlebell with both hands in front of your body, arms extended.",
+    "Bend your knees slightly and hinge at the hips, pushing your butt back.",
+    "Swing the kettlebell back between your legs, keeping your arms straight and maintaining a flat back.",
+    "Drive your hips forward and swing the kettlebell up to shoulder height, using the momentum generated by your hips.",
+    "Allow the kettlebell to swing back down between your legs and repeat the movement for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość ramion, palce stóp skieruj lekko na zewnątrz.",
+    "Trzymaj odważnik kettlebell obiema rękami przed ciałem, wyciągając ramiona.",
+    "Lekko ugnij kolana i zegnij się w biodrach, odchylając pośladki do tyłu.",
+    "Wykonaj zamach odważnikiem kettlebell między nogami, trzymając ramiona prosto i utrzymując płaskie plecy.",
+    "Wysuń biodra do przodu i unieś odważnik kettlebell na wysokość ramion, wykorzystując pęd generowany przez biodra.",
+    "Pozwól, aby odważnik kettlebell opadł z powrotem między nogi i powtórz ruch żądaną liczbę razy."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cdf"
+  },
+  "apiId": "0044",
+  "name": "barbell good morning",
+  "name_pl": "Sztanga dzień dobry",
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "equipment": "barbell",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart and the barbell resting on your upper back.",
+    "Keeping your back straight and your core engaged, hinge forward at the hips, pushing your buttocks back as if you were trying to touch the wall behind you with your glutes.",
+    "Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.",
+    "Pause for a moment, then return to the starting position by squeezing your glutes and pushing your hips forward.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i oprzyj sztangę na górnej części pleców.",
+    "Trzymając plecy prosto i napięty korpus, pochyl się w biodrach do przodu, odchylając pośladki do tyłu tak, jakbyś próbował dotknąć pośladkami ściany za sobą.",
+    "Opuszczaj tułów, aż będzie równoległy do podłoża, czując rozciąganie mięśni dwugłowych uda.",
+    "Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej, napinając pośladki i wypychając biodra do przodu.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e5a"
+  },
+  "apiId": "0488",
+  "name": "hyperextension (on bench)",
+  "name_pl": "Nadmierne wyprostowanie (na ławce)",
+  "bodyPart": "back",
+  "target": "spine",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the hyperextension bench so that your hips are resting comfortably on the pad and your feet are secured.",
+    "Cross your arms over your chest or place your hands behind your head.",
+    "Slowly lower your upper body towards the ground while keeping your back straight.",
+    "Pause for a moment at the bottom, then raise your upper body back up until it is in line with your legs.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw ławkę do ćwiczeń hiperekstensyjnych tak, aby biodra wygodnie spoczywały na podkładce, a stopy były stabilne.",
+    "Załóż ramiona na klatkę piersiową lub połóż dłonie za głową.",
+    "Powoli opuszczaj górną część ciała w kierunku podłoża, cały czas utrzymując proste plecy.",
+    "Zatrzymaj się na chwilę na dole, a następnie unieś górną część ciała, aż znajdzie się w jednej linii z nogami.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9172"
+  },
+  "apiId": "3193",
+  "name": "glute-ham raise",
+  "name_pl": "Podnoszenie pośladków i szynki",
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the glute-ham raise machine to fit your body.",
+    "Position yourself face down on the machine with your ankles secured.",
+    "Place your hands on your chest or cross them over your chest.",
+    "Engage your hamstrings and glutes to lift your upper body up towards the ceiling.",
+    "Continue lifting until your body is in a straight line from your head to your heels.",
+    "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dopasuj maszynę do podnoszenia pośladków i mięśni dwugłowych uda do swojego ciała.",
+    "Połóż się twarzą w dół na maszynie, trzymając kostki w kolanach.",
+    "Połóż ręce na klatce piersiowej lub skrzyżuj je na klatce piersiowej.",
+    "Napnij mięśnie dwugłowe ud i pośladki, aby unieść górną część ciała w stronę sufitu.",
+    "Kontynuuj podnoszenie, aż Twoje ciało utworzy linię prostą od głowy do pięt.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ea5"
+  },
+  "apiId": "0586",
+  "name": "lever lying leg curl",
+  "name_pl": "Dźwignia do zginania nóg w leżeniu",
+  "bodyPart": "upper legs",
+  "target": "hamstrings",
+  "equipment": "leverage machine",
+  "role": "isolation",
+  "pattern": "hinge",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the machine to fit your body and select the desired weight.",
+    "Lie face down on the machine with your legs straight and your heels against the padded lever.",
+    "Grasp the handles or the sides of the machine for stability.",
+    "Keeping your upper body stationary, exhale and curl your legs up as far as possible without lifting your hips off the pad.",
+    "Hold the contracted position for a brief pause as you squeeze your hamstrings.",
+    "Inhale and slowly lower the lever back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dopasuj maszynę do swojego ciała i wybierz żądaną wagę.",
+    "Połóż się twarzą do dołu na maszynie, wyprostuj nogi i oprzyj pięty o wyściełaną dźwignię.",
+    "Aby zachować stabilność, chwyć maszynę za uchwyty lub jej boki.",
+    "Utrzymując górną część ciała nieruchomo, zrób wydech i podciągnij nogi tak wysoko, jak to możliwe, nie odrywając bioder od poduszki.",
+    "Utrzymaj tę pozycję przez chwilę, napinając jednocześnie ścięgna podkolanowe.",
+    "Weź wdech i powoli opuść dźwignię do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ccc"
+  },
+  "apiId": "0025",
+  "name": "barbell bench press",
+  "name_pl": "Wyciskanie sztangi na ławce",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "push_h",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+    "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+    "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+    "Lower the barbell slowly towards your chest, keeping your elbows tucked in.",
+    "Pause for a moment when the barbell touches your chest.",
+    "Push the barbell back up to the starting position by extending your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a plecy o ławkę.",
+    "Chwyć sztangę nachwytem, rozstawiając ją nieco szerzej niż na szerokość barków.",
+    "Podnieś sztangę ze stojaka i trzymaj ją bezpośrednio nad klatką piersiową, wyciągając całkowicie ramiona.",
+    "Powoli opuszczaj sztangę w kierunku klatki piersiowej, trzymając łokcie blisko ciała.",
+    "Zatrzymaj się na chwilę w momencie, gdy sztanga dotknie Twojej klatki piersiowej.",
+    "Podnieś sztangę z powrotem do pozycji wyjściowej, wyciągając ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dab"
+  },
+  "apiId": "0289",
+  "name": "dumbbell bench press",
+  "name_pl": "Wyciskanie hantli na ławce",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "push_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+    "Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest.",
+    "Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle.",
+    "Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a plecy o ławkę.",
+    "Trzymaj hantle w każdej ręce, dłonie skieruj do przodu, a ramiona wyciągnij nad klatkę piersiową.",
+    "Powoli opuszczaj hantle wzdłuż tułowia, utrzymując łokcie pod kątem 90 stopni.",
+    "Zatrzymaj się na chwilę, a następnie podnieś hantle do pozycji wyjściowej, całkowicie wyciągając ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ce2"
+  },
+  "apiId": "0047",
+  "name": "barbell incline bench press",
+  "name_pl": "Wyciskanie sztangi na ławce skośnej",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "barbell",
+  "role": "main_t2",
+  "pattern": "push_h",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Set up an incline bench at a 45-degree angle.",
+    "Lie down on the bench with your feet flat on the ground.",
+    "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle.",
+    "Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw ławkę skośną pod kątem 45 stopni.",
+    "Połóż się na ławce ze stopami płasko na podłodze.",
+    "Chwyć sztangę nachwytem, rozstawiając ją nieco szerzej niż na szerokość barków.",
+    "Odłóż sztangę na stojak i powoli opuść ją w kierunku klatki piersiowej, utrzymując łokcie pod kątem 45 stopni.",
+    "Zatrzymaj się na chwilę na dole, a następnie podnieś sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dc4"
+  },
+  "apiId": "0314",
+  "name": "dumbbell incline bench press",
+  "name_pl": "Wyciskanie hantli na ławce skośnej",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "push_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Set up an incline bench at a 45-degree angle.",
+    "Sit on the bench with your feet flat on the ground and your back pressed firmly against the bench.",
+    "Hold a dumbbell in each hand, palms facing forward, and lift them to shoulder height.",
+    "Slowly lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle.",
+    "Push the dumbbells back up to the starting position, fully extending your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw ławkę skośną pod kątem 45 stopni.",
+    "Usiądź na ławce, oprzyj stopy płasko na ziemi i mocno dociśnij plecy do ławki.",
+    "Trzymaj hantle w każdej ręce, dłońmi skierowanymi do przodu, i unieś je na wysokość ramion.",
+    "Powoli opuszczaj hantle na boki klatki piersiowej, utrzymując łokcie pod kątem 90 stopni.",
+    "Podnieś hantle z powrotem do pozycji wyjściowej, całkowicie wyciągając ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ed8"
+  },
+  "apiId": "0662",
+  "name": "push-up",
+  "name_pl": "Pompki",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "body weight",
+  "role": "main_t2",
+  "pattern": "push_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Start in a high plank position with your hands slightly wider than shoulder-width apart and your feet together.",
+    "Engage your core and lower your body towards the ground by bending your elbows, keeping your body in a straight line.",
+    "Pause for a moment when your chest is just above the ground, then push yourself back up to the starting position by straightening your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Rozpocznij w pozycji wysokiej deski, rozstawiając dłonie nieco szerzej niż na szerokość barków i złączając stopy.",
+    "Napnij mięśnie korpusu i opuszczaj ciało w kierunku podłoża, zginając łokcie i utrzymując ciało w linii prostej.",
+    "Zatrzymaj się na chwilę w miejscu, w którym twoja klatka piersiowa znajdzie się tuż nad ziemią, a następnie wróć do pozycji wyjściowej, prostując ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cd1"
+  },
+  "apiId": "0030",
+  "name": "barbell close-grip bench press",
+  "name_pl": "Wyciskanie sztangi wąskim chwytem na ławce",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "barbell",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+    "Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.",
+    "Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body.",
+    "Pause for a moment when the barbell touches your chest.",
+    "Push the barbell back up to the starting position, fully extending your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a plecy o ławkę.",
+    "Chwyć sztangę ciasno, rozstawiając ją nieco wężej niż na szerokość barków.",
+    "Odłóż sztangę na stojak i powoli opuść ją w kierunku klatki piersiowej, trzymając łokcie blisko ciała.",
+    "Zatrzymaj się na chwilę w momencie, gdy sztanga dotknie Twojej klatki piersiowej.",
+    "Podnieś sztangę z powrotem do pozycji wyjściowej, całkowicie wyciągając ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e5f"
+  },
+  "apiId": "0493",
+  "name": "incline push-up",
+  "name_pl": "Pompki na pochyłości",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Place your hands on an elevated surface, such as a bench or step, slightly wider than shoulder-width apart.",
+    "Extend your legs behind you, resting on the balls of your feet, creating a straight line from your head to your heels.",
+    "Lower your chest towards the elevated surface by bending your elbows, keeping your body in a straight line.",
+    "Pause for a moment at the bottom, then push yourself back up to the starting position by straightening your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż dłonie na podwyższonej powierzchni, np. ławce lub stopniu, rozstawiając je nieco szerzej niż na szerokość barków.",
+    "Wyciągnij nogi za siebie, opierając je na palcach stóp i utwórz prostą linię od głowy do pięt.",
+    "Obniż klatkę piersiową w kierunku podwyższonej powierzchni, zginając łokcie i utrzymując ciało w linii prostej.",
+    "Zatrzymaj się na chwilę na dole, a następnie wróć do pozycji wyjściowej, prostując ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed917a"
+  },
+  "apiId": "3211",
+  "name": "kneeling push-up (male)",
+  "name_pl": "Pompki klęczące (mężczyźni)",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Start by kneeling on the ground with your hands shoulder-width apart, fingers pointing forward.",
+    "Extend your legs behind you, resting on the balls of your feet, so that your body forms a straight line from head to heels.",
+    "Engage your core and lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+    "Continue lowering until your chest is just above the ground, then push back up to the starting position by straightening your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Uklęknij na podłodze, rozstawiając dłonie na szerokość ramion i kierując palce do przodu.",
+    "Wyciągnij nogi za siebie, opierając je na palcach stóp tak, aby ciało utworzyło prostą linię od głowy do pięt.",
+    "Napnij mięśnie korpusu i opuść ciało w kierunku podłoża, zginając łokcie i trzymając je blisko boków ciała.",
+    "Kontynuuj obniżanie, aż klatka piersiowa znajdzie się tuż nad podłożem, a następnie wróć do pozycji wyjściowej, prostując ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dbe"
+  },
+  "apiId": "0308",
+  "name": "dumbbell fly",
+  "name_pl": "Rozpiętki z hantlami",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "push_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with a dumbbell in each hand, palms facing each other.",
+    "Extend your arms straight up over your chest, with a slight bend in your elbows.",
+    "Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest.",
+    "Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, trzymając hantel w każdej ręce i skieruj dłonie do siebie.",
+    "Wyciągnij ramiona prosto nad klatkę piersiową, lekko ugnij je w łokciach.",
+    "Lekko zginając łokcie, rozłóż ramiona na boki szerokim łukiem, aż poczujesz rozciąganie w klatce piersiowej.",
+    "Zatrzymaj się na chwilę, a następnie odwróć ruch i podnieś hantle do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d3f"
+  },
+  "apiId": "0155",
+  "name": "cable cross-over variation",
+  "name_pl": "Wariacja krzyżowania kabli",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "push_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the cable pulleys to chest height.",
+    "Stand in the center of the cable machine with one foot in front of the other.",
+    "Grasp the handles with your palms facing down and your arms extended out to the sides.",
+    "Take a step forward, keeping your arms slightly bent.",
+    "With a slight bend in your elbows, bring your hands together in front of your chest.",
+    "Pause for a moment, then slowly return your arms back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dopasuj bloczki linowe do wysokości klatki piersiowej.",
+    "Stań na środku maszyny do ćwiczeń na kablu, jedną nogę wysuwając przed drugą.",
+    "Chwyć uchwyty dłońmi skierowanymi w dół i wyciągnij ramiona na boki.",
+    "Zrób krok do przodu, trzymając ramiona lekko zgięte.",
+    "Lekko zegnij łokcie i połóż dłonie przed klatką piersiową.",
+    "Zatrzymaj się na chwilę, a następnie powoli wróć ramionami do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d0d"
+  },
+  "apiId": "0091",
+  "name": "barbell seated overhead press",
+  "name_pl": "Wyciskanie sztangi nad głowę siedząc",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "push_v",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on a bench with your back straight and feet flat on the ground.",
+    "Hold the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "Lift the barbell off the rack and bring it to shoulder level, with your elbows bent and palms facing forward.",
+    "Press the barbell overhead by extending your arms fully.",
+    "Pause for a moment at the top, then slowly lower the barbell back to shoulder level.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na ławce z wyprostowanymi plecami i stopami płasko na podłodze.",
+    "Chwyć sztangę nachwytem, rozstawiając ją nieco szerzej niż na szerokość barków.",
+    "Podnieś sztangę ze stojaka i unieś ją na wysokość barków, zegnij łokcie i skieruj dłonie do przodu.",
+    "Wyciśnij sztangę nad głowę, całkowicie wyciągając ramiona.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę z powrotem na wysokość ramion.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e1e"
+  },
+  "apiId": "0405",
+  "name": "dumbbell seated shoulder press",
+  "name_pl": "Wyciskanie hantli na barki siedząc",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "push_v",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on a bench with a dumbbell in each hand, resting on your thighs.",
+    "Raise the dumbbells to shoulder height, palms facing forward.",
+    "Press the dumbbells upward until your arms are fully extended overhead.",
+    "Pause for a moment at the top, then slowly lower the dumbbells back to shoulder height.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na ławce z hantlami w każdej ręce, opartymi na udach.",
+    "Podnieś hantle na wysokość ramion, kierując dłonie do przodu.",
+    "Podnoś hantle do góry, aż Twoje ramiona znajdą się całkowicie wyciągnięte nad głową.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantle z powrotem na wysokość ramion.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e32"
+  },
+  "apiId": "0426",
+  "name": "dumbbell standing overhead press",
+  "name_pl": "Wyciskanie hantli nad głowę stojąc",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "push_v",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder level with your palms facing forward.",
+    "Press the dumbbells upward until your arms are fully extended overhead.",
+    "Pause for a moment at the top, then slowly lower the dumbbells back down to shoulder level.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantle w każdej ręce na wysokości barków, dłońmi skierowanymi do przodu.",
+    "Podnoś hantle do góry, aż Twoje ramiona znajdą się całkowicie wyciągnięte nad głową.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantle z powrotem na wysokość ramion.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f32"
+  },
+  "apiId": "0814",
+  "name": "triceps dip",
+  "name_pl": "Dip na triceps",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "body weight",
+  "role": "main_t2",
+  "pattern": "push_v",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the edge of a bench or chair with your hands gripping the edge, fingers pointing forward.",
+    "Slide your butt off the bench, supporting your weight with your hands.",
+    "Bend your elbows and lower your body towards the ground, keeping your back close to the bench.",
+    "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na krawędzi ławki lub krzesła, trzymając je dłońmi za krawędź i kierując palce do przodu.",
+    "Zsuń pośladki z ławki, opierając ciężar ciała na rękach.",
+    "Zegnij łokcie i opuść ciało w kierunku podłogi, trzymając plecy blisko ławki.",
+    "Zatrzymaj się na chwilę na dole, a następnie wróć do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8eb6"
+  },
+  "apiId": "0603",
+  "name": "lever shoulder press",
+  "name_pl": "Wyciskanie dźwignią na barki",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "leverage machine",
+  "role": "accessory",
+  "pattern": "push_v",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and position yourself on the machine with your back against the backrest.",
+    "Grasp the handles with an overhand grip and position your hands at shoulder level.",
+    "Push the handles upward until your arms are fully extended, but do not lock your elbows.",
+    "Pause for a moment at the top, then slowly lower the handles back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dostosuj wysokość siedziska i usiądź na maszynie, opierając plecy o oparcie.",
+    "Chwyć uchwyty nachwytem i ułóż dłonie na wysokości ramion.",
+    "Podnieś uchwyty do góry, aż do całkowitego wyprostowania ramion, ale nie blokuj łokci.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść uchwyty do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e53"
+  },
+  "apiId": "0471",
+  "name": "handstand push-up",
+  "name_pl": "Pompki w staniu na rękach",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "push_v",
+  "difficulty": 9,
+  "is_unilateral": false,
+  "instructions": [
+    "Find a wall and face away from it, standing a few feet away.",
+    "Place your hands on the ground shoulder-width apart and kick your feet up against the wall, coming into a handstand position.",
+    "Bend your elbows and lower your head towards the ground, keeping your body in a straight line.",
+    "Push through your hands and extend your arms to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Znajdź ścianę i stań tyłem do niej, w odległości kilku stóp.",
+    "Połóż dłonie na podłodze na szerokość barków i oprzyj stopy o ścianę, przyjmując pozycję stania na rękach.",
+    "Zegnij łokcie i opuść głowę w stronę podłogi, utrzymując ciało w linii prostej.",
+    "Wyprostuj ręce i wyciągnij ramiona, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dd8"
+  },
+  "apiId": "0334",
+  "name": "dumbbell lateral raise",
+  "name_pl": "Unoszenie hantli na boki",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "push_v",
+  "difficulty": 3,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body.",
+    "Keep your back straight and engage your core.",
+    "Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows.",
+    "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i trzymaj hantle w każdej ręce, wnętrza dłoni skierowane do ciała.",
+    "Trzymaj plecy prosto i napnij mięśnie korpusu.",
+    "Podnieś ramiona na boki, aż będą równoległe do podłogi, lekko zginając łokcie.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d53"
+  },
+  "apiId": "0178",
+  "name": "cable lateral raise",
+  "name_pl": "Unoszenie boczne wyciągu linowego",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "push_v",
+  "difficulty": 3,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip.",
+    "Keep your arms straight and your core engaged.",
+    "Raise your arms out to the sides until they are parallel to the floor.",
+    "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i chwyć uchwyty linki nachwytem.",
+    "Trzymaj ramiona prosto i napnij mięśnie korpusu.",
+    "Podnieś ramiona na boki, aż będą równoległe do podłogi.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dc0"
+  },
+  "apiId": "0310",
+  "name": "dumbbell front raise",
+  "name_pl": "Unoszenie hantli do przodu",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "push_v",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+    "Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level.",
+    "Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając w każdej ręce hantle i skieruj dłonie w stronę ud.",
+    "Trzymając ramiona prosto, zrób wydech i unieś hantle przed siebie, aż znajdą się na wysokości ramion.",
+    "Zatrzymaj się na chwilę na górze, następnie weź wdech i powoli opuść hantle do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cce"
+  },
+  "apiId": "0027",
+  "name": "barbell bent over row",
+  "name_pl": "Wiosłowanie sztangą w opadzie",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "pull_h",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and knees slightly bent.",
+    "Bend forward at the hips while keeping your back straight and chest up.",
+    "Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+    "Pull the barbell towards your lower chest by retracting your shoulder blades and squeezing your back muscles.",
+    "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i lekko ugnij kolana.",
+    "Pochyl się w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową.",
+    "Chwyć sztangę nachwytem, rozstawiając dłonie nieco szerzej niż na szerokość barków.",
+    "Przyciągnij sztangę do dolnej części klatki piersiowej, ściągając łopatki i napinając mięśnie pleców.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed915c"
+  },
+  "apiId": "3017",
+  "name": "barbell pendlay row",
+  "name_pl": "Wiosłowanie sztangą",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "barbell",
+  "role": "main_t1",
+  "pattern": "pull_h",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and your knees slightly bent.",
+    "Bend forward at the hips, keeping your back straight and your chest up.",
+    "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+    "Pull the barbell towards your upper abdomen, squeezing your shoulder blades together.",
+    "Lower the barbell back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i lekko ugnij kolana.",
+    "Pochyl się w biodrach, utrzymując proste plecy i uniesioną klatkę piersiową.",
+    "Chwyć sztangę nachwytem, rozstawiając ją nieco szerzej niż na szerokość barków.",
+    "Przyciągnij sztangę w kierunku górnej części brzucha, jednocześnie ściągając łopatki.",
+    "Opuść sztangę z powrotem do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dae"
+  },
+  "apiId": "0292",
+  "name": "dumbbell one arm bent-over row",
+  "name_pl": "Wiosłowanie hantlami jedną ręką w opadzie",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "pull_h",
+  "difficulty": 5,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your palm facing your body.",
+    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+    "Let the dumbbell hang straight down towards the floor, with your arm fully extended.",
+    "Pull the dumbbell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.",
+    "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając hantel w jednej ręce, wnętrzem dłoni zwróconym w stronę ciała.",
+    "Lekko ugnij kolana i pochyl się do przodu w biodrach, utrzymując proste plecy i napięty korpus.",
+    "Opuść hantel prosto w dół, w stronę podłogi, trzymając ramię całkowicie wyprostowane.",
+    "Podciągnij hantel w stronę klatki piersiowej, trzymając łokieć blisko ciała i ściągając łopatki.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść hantel do pozycji początkowej.",
+    "Powtórz ćwiczenie odpowiednią liczbę razy, a następnie zmień stronę."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e84"
+  },
+  "apiId": "0541",
+  "name": "kettlebell one arm row",
+  "name_pl": "Wiosłowanie kettlebell jedną ręką",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "kettlebell",
+  "role": "main_t2",
+  "pattern": "pull_h",
+  "difficulty": 4,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a kettlebell in one hand with an overhand grip.",
+    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+    "Pull the kettlebell up towards your chest, keeping your elbow close to your body and squeezing your shoulder blades together.",
+    "Pause for a moment at the top, then slowly lower the kettlebell back down to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides and repeat with the other arm."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając odważnik kettlebell w jednej ręce nachwytem.",
+    "Lekko ugnij kolana i pochyl się do przodu w biodrach, utrzymując proste plecy i napięty korpus.",
+    "Podciągnij odważnik kettlebell w stronę klatki piersiowej, trzymając łokieć blisko ciała i ściągając łopatki.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść odważnik kettlebell z powrotem do pozycji początkowej.",
+    "Powtórz ćwiczenie odpowiednią liczbę razy, następnie zmień stronę i powtórz ćwiczenie drugą ręką."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d8c"
+  },
+  "apiId": "0239",
+  "name": "cable straight back seated row",
+  "name_pl": "W rzędzie siedzącym z prostym oparciem",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "cable",
+  "role": "accessory",
+  "pattern": "pull_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent.",
+    "Grasp the cable handles with an overhand grip, palms facing down.",
+    "Keep your back straight and lean slightly forward from the hips.",
+    "Pull the cable handles towards your body, squeezing your shoulder blades together.",
+    "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na ergometrze wioślarskim ze stopami spoczywającymi płasko na podnóżkach i lekko ugiętymi kolanami.",
+    "Chwyć uchwyty kabla nachwytem, dłońmi skierowanymi w dół.",
+    "Trzymaj plecy prosto i lekko pochyl się do przodu w biodrach.",
+    "Pociągnij uchwyty linki w stronę ciała, ściskając jednocześnie łopatki.",
+    "Zatrzymaj się na chwilę w szczytowym momencie ruchu, a następnie powoli zwolnij uchwyty, wracając do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e65"
+  },
+  "apiId": "0499",
+  "name": "inverted row",
+  "name_pl": "Odwrócony rząd",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "pull_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Set up a bar at waist height or use a suspension trainer.",
+    "Stand facing the bar or suspension trainer, with your feet shoulder-width apart.",
+    "Grab the bar or handles with an overhand grip, slightly wider than shoulder-width apart.",
+    "Lean back, keeping your body straight and your heels on the ground.",
+    "Pull your chest towards the bar or handles, squeezing your shoulder blades together.",
+    "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw drążek na wysokości pasa lub skorzystaj z urządzenia do ćwiczeń w podwieszeniu.",
+    "Stań twarzą do sztangi lub przyrządu do ćwiczeń w podwieszeniu, rozstawiając stopy na szerokość barków.",
+    "Chwyć sztangę lub uchwyty nachwytem, rozstawiając je nieco szerzej niż na szerokość barków.",
+    "Odchyl się do tyłu, utrzymując ciało prosto i pięty na podłodze.",
+    "Przyciągnij klatkę piersiową do drążka lub uchwytów, jednocześnie ściągając łopatki.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść się do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cfc"
+  },
+  "apiId": "0074",
+  "name": "barbell rack pull",
+  "name_pl": "Ściąganie sztangi ze stojaka",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "barbell",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Set up a barbell on a rack at knee height.",
+    "Stand with your feet shoulder-width apart, toes pointing slightly outwards.",
+    "Bend at the hips and knees to lower yourself down and grip the barbell with an overhand grip, hands shoulder-width apart.",
+    "Engage your core and lift the barbell by extending your hips and knees, pulling your shoulders back and squeezing your glutes at the top.",
+    "Lower the barbell back down to the starting position by bending at the hips and knees.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż sztangę na stojaku na wysokości kolan.",
+    "Stań ze stopami rozstawionymi na szerokość barków, palce stóp skieruj lekko na zewnątrz.",
+    "Zegnij biodra i kolana, opuść się i chwyć sztangę nachwytem, rozstawiając dłonie na szerokość barków.",
+    "Napnij mięśnie korpusu i podnieś sztangę, prostując biodra i kolana, odciągając ramiona do tyłu i napinając pośladki w górnej części ciała.",
+    "Opuść sztangę z powrotem do pozycji wyjściowej, zginając nogi w biodrach i kolanach.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e05"
+  },
+  "apiId": "0380",
+  "name": "dumbbell rear lateral raise",
+  "name_pl": "Unoszenie hantli w tył i na boki",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "pull_h",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body.",
+    "Bend your knees slightly and hinge forward at the hips, keeping your back straight and core engaged.",
+    "Raise your arms out to the sides, keeping a slight bend in your elbows, until they are parallel to the floor.",
+    "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i trzymaj hantle w każdej ręce, wnętrza dłoni skierowane do ciała.",
+    "Lekko ugnij kolana i pochyl się do przodu w biodrach, utrzymując proste plecy i napięty korpus.",
+    "Podnieś ramiona na boki, lekko zginając łokcie, aż będą równoległe do podłogi.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ramiona do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8eb4"
+  },
+  "apiId": "0601",
+  "name": "lever seated reverse fly (parallel grip)",
+  "name_pl": "Rozpiętki w siadzie z dźwignią (chwyt równoległy)",
+  "bodyPart": "shoulders",
+  "target": "delts",
+  "equipment": "leverage machine",
+  "role": "isolation",
+  "pattern": "pull_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and position yourself on the machine with your chest against the pad and your feet flat on the floor.",
+    "Grasp the handles with a parallel grip, palms facing each other, and keep your arms slightly bent.",
+    "Exhale and squeeze your shoulder blades together as you pull the handles back and outward, away from your body.",
+    "Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dostosuj wysokość siedziska i ustaw się na maszynie, tak aby klatka piersiowa przylegała do podkładki, a stopy spoczywały płasko na podłodze.",
+    "Chwyć uchwyty nachwytem równoległym, skieruj dłonie do siebie i lekko ugnij ramiona.",
+    "Zrób wydech i ściągnij łopatki, odciągając uchwyty do tyłu i na zewnątrz, od ciała.",
+    "Zatrzymaj się na chwilę w szczytowym momencie skurczu, następnie weź wdech i powoli wróć do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ed0"
+  },
+  "apiId": "0652",
+  "name": "pull-up",
+  "name_pl": "Podciąganie",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "body weight",
+  "role": "main_t1",
+  "pattern": "pull_v",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Hang from a pull-up bar with your palms facing away from you and your arms fully extended.",
+    "Engage your core and squeeze your shoulder blades together.",
+    "Pull your body up towards the bar by bending your elbows and bringing your chest towards the bar.",
+    "Pause at the top of the movement, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zawiśnij na drążku do podciągania, dłonie skieruj na zewnątrz, a ramiona wyciągnij całkowicie.",
+    "Napnij mięśnie korpusu i ściągnij łopatki.",
+    "Podciągnij ciało w stronę drążka, zginając łokcie i przyciągając klatkę piersiową do drążka.",
+    "Zatrzymaj się w górnej pozycji ruchu, a następnie powoli opuść ciało do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8fd7"
+  },
+  "apiId": "1326",
+  "name": "chin-up",
+  "name_pl": "Podciąganie na drążku",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "body weight",
+  "role": "main_t1",
+  "pattern": "pull_v",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+    "Engage your core and pull your body up towards the bar, leading with your chest.",
+    "Continue pulling until your chin is above the bar.",
+    "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zawiśnij na drążku do podciągania, dłonie skieruj do siebie i rozstaw na szerokość barków.",
+    "Napnij mięśnie korpusu i podciągnij ciało w stronę drążka, prowadząc klatkę piersiową.",
+    "Kontynuuj ciągnięcie, aż broda znajdzie się nad drążkiem.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f3e"
+  },
+  "apiId": "0841",
+  "name": "weighted pull-up",
+  "name_pl": "Podciąganie z obciążeniem",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "weighted",
+  "role": "main_t1",
+  "pattern": "pull_v",
+  "difficulty": 8,
+  "is_unilateral": false,
+  "instructions": [
+    "Grab the pull-up bar with an overhand grip, slightly wider than shoulder-width apart.",
+    "Hang from the bar with your arms fully extended and your body straight.",
+    "Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.",
+    "Continue pulling until your chin is above the bar.",
+    "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Chwyć drążek do podciągania nachwytem, rozstawiając go nieco szerzej niż na szerokość barków.",
+    "Zawiśnij na drążku, trzymając ramiona całkowicie wyprostowane i ciało wyprostowane.",
+    "Napnij mięśnie pleców i podciągnij ciało w stronę drążka, trzymając łokcie blisko ciała.",
+    "Kontynuuj ciągnięcie, aż broda znajdzie się nad drążkiem.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d64"
+  },
+  "apiId": "0198",
+  "name": "cable pulldown",
+  "name_pl": "Kabel pulldown",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "cable",
+  "role": "main_t2",
+  "pattern": "pull_v",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured.",
+    "Sit on the seat with your back straight and your feet flat on the ground.",
+    "Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart.",
+    "Lean back slightly and engage your core.",
+    "Pull the cable bar down towards your chest, squeezing your shoulder blades together.",
+    "Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Wyreguluj maszynę do ćwiczeń na linkach tak, aby siedzisko znajdowało się na wygodnej wysokości, a nakolanniki były dobrze zamocowane.",
+    "Usiądź na siedzeniu z wyprostowanymi plecami i stopami płasko na podłodze.",
+    "Chwyć drążek nachwytem, rozstawiając go nieco szerzej niż na szerokość barków.",
+    "Lekko odchyl się do tyłu i napnij mięśnie korpusu.",
+    "Pociągnij drążek w dół, w kierunku klatki piersiowej, jednocześnie ściskając łopatki.",
+    "Zatrzymaj się na chwilę w dolnej części ruchu, a następnie powoli opuść sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d92"
+  },
+  "apiId": "0245",
+  "name": "cable underhand pulldown",
+  "name_pl": "Ściąganie linki od dołu",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "cable",
+  "role": "accessory",
+  "pattern": "pull_v",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the cable machine so that the pulldown bar is at a height above your head.",
+    "Sit down on the seat and grab the pulldown bar with an underhand grip, hands slightly wider than shoulder-width apart.",
+    "Keep your back straight and lean back slightly.",
+    "Pull the bar down towards your chest, squeezing your shoulder blades together.",
+    "Pause for a moment at the bottom of the movement, then slowly release the bar back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Wyreguluj maszynę linkową tak, aby drążek do podciągania znajdował się na wysokości nad głową.",
+    "Usiądź na siedzisku i chwyć drążek nachwytem, rozstawiając dłonie nieco szerzej niż na szerokość barków.",
+    "Trzymaj plecy prosto i lekko odchyl się do tyłu.",
+    "Pociągnij sztangę w dół, w kierunku klatki piersiowej, jednocześnie ściskając łopatki.",
+    "Zatrzymaj się na chwilę w dolnej części ruchu, a następnie powoli opuść sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cc5"
+  },
+  "apiId": "0017",
+  "name": "assisted pull-up",
+  "name_pl": "Wspomagane podciąganie",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "leverage machine",
+  "role": "accessory",
+  "pattern": "pull_v",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the machine to your desired weight and height settings.",
+    "Grasp the handles with an overhand grip, slightly wider than shoulder-width apart.",
+    "Hang with your arms fully extended and your feet off the ground.",
+    "Engage your back muscles and pull your body up towards the handles, keeping your elbows close to your body.",
+    "Continue pulling until your chin is above the handles.",
+    "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dostosuj maszynę do swoich preferencji dotyczących wagi i wzrostu.",
+    "Chwyć uchwyty nachwytem, rozstawiając je nieco szerzej niż na szerokość barków.",
+    "Zawiśnij z ramionami całkowicie wyciągniętymi i stopami uniesionymi nad ziemię.",
+    "Napnij mięśnie pleców i podciągnij ciało w stronę uchwytów, trzymając łokcie blisko ciała.",
+    "Kontynuuj ciągnięcie, aż broda znajdzie się nad uchwytami.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść ciało do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ee9"
+  },
+  "apiId": "0688",
+  "name": "scapular pull-up",
+  "name_pl": "Podciąganie łopatki",
+  "bodyPart": "back",
+  "target": "traps",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "pull_v",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Start by hanging from a pull-up bar with your palms facing away from you and your arms fully extended.",
+    "Retract your shoulder blades by pulling them down and back.",
+    "Engage your back muscles and pull your body up towards the bar, focusing on squeezing your shoulder blades together.",
+    "Pause for a moment at the top of the movement, then slowly lower your body back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Rozpocznij od zawiśnięcia na drążku do podciągania, skieruj dłonie na zewnątrz i wyciągnij całkowicie ramiona.",
+    "Cofnij łopatki ściągając je w dół i do tyłu.",
+    "Napnij mięśnie pleców i przyciągnij ciało w stronę drążka, koncentrując się na ściągnięciu łopatek.",
+    "Zatrzymaj się na chwilę w górnej pozycji ruchu, a następnie powoli opuść ciało do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9198"
+  },
+  "apiId": "3293",
+  "name": "archer pull up",
+  "name_pl": "Podciągnięcie łucznika",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "pull_v",
+  "difficulty": 9,
+  "is_unilateral": true,
+  "instructions": [
+    "Start by hanging from a pull-up bar with an overhand grip, slightly wider than shoulder-width apart.",
+    "Engage your core and pull your shoulder blades down and back.",
+    "As you pull yourself up, bend one arm and bring your elbow towards your side, while keeping the other arm straight.",
+    "Continue pulling until your chin is above the bar and your bent arm is fully flexed.",
+    "Lower yourself back down with control, straightening the bent arm and repeating the movement on the other side.",
+    "Alternate sides with each repetition."
+  ],
+  "instructions_pl": [
+    "Rozpocznij od zawisu na drążku nachwytem, rozstawiając ramiona nieco szerzej niż na szerokość barków.",
+    "Napnij mięśnie korpusu i ściągnij łopatki w dół i do tyłu.",
+    "Podczas podciągania się, zegnij jedną rękę i przyciągnij łokieć do boku, trzymając drugą rękę prosto.",
+    "Kontynuuj podciąganie, aż broda znajdzie się nad drążkiem, a ramię będzie całkowicie zgięte.",
+    "Opuść się w sposób kontrolowany, prostując zgięte ramię i powtórz ruch po drugiej stronie.",
+    "Zamieniaj strony przy każdym powtórzeniu."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d8b"
+  },
+  "apiId": "0238",
+  "name": "cable straight arm pulldown",
+  "name_pl": "Ściąganie prostych ramion na wyciągu",
+  "bodyPart": "back",
+  "target": "lats",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "pull_v",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Attach a straight bar to the high pulley of a cable machine.",
+    "Stand facing the machine with your feet shoulder-width apart.",
+    "Grasp the bar with an overhand grip, keeping your arms straight and your palms facing down.",
+    "Engage your lats and pull the bar down towards your thighs, keeping your arms straight throughout the movement.",
+    "Pause for a moment at the bottom, then slowly return the bar to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zamocuj prosty drążek do górnego krążka maszyny do ćwiczeń na wyciągu.",
+    "Stań twarzą do maszyny, rozstawiając stopy na szerokość ramion.",
+    "Chwyć sztangę nachwytem, trzymając ramiona prosto i kierując dłonie do dołu.",
+    "Napnij mięśnie najszersze grzbietu i pociągnij sztangę w dół, w kierunku ud, utrzymując ramiona wyprostowane przez cały czas wykonywania ruchu.",
+    "Zatrzymaj się na chwilę na dole, a następnie powoli wróć sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e54"
+  },
+  "apiId": "0472",
+  "name": "hanging leg raise",
+  "name_pl": "Unoszenie nogi w zwisie",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+    "Engage your core and lift your legs up in front of you, keeping them straight.",
+    "Continue lifting until your legs are parallel to the ground or as high as you can comfortably go.",
+    "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zawiśnij na drążku do podciągania, wyciągając ramiona w pełni do przodu i skieruj dłonie na zewnątrz.",
+    "Napnij mięśnie korpusu i unieś nogi przed siebie, trzymając je prosto.",
+    "Kontynuuj podnoszenie, aż nogi znajdą się równolegle do podłoża lub tak wysoko, jak będziesz w stanie się wygodnie unieść.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f37"
+  },
+  "apiId": "0826",
+  "name": "vertical leg raise (on parallel bars)",
+  "name_pl": "Pionowe unoszenie nóg (na poręczach)",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Hang from the parallel bars with your arms fully extended and your body straight.",
+    "Engage your core and lift your legs up in front of you, keeping them straight.",
+    "Continue lifting until your legs are parallel to the ground or slightly higher.",
+    "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zawiśnij na drążkach, trzymając ramiona całkowicie wyprostowane i ciało wyprostowane.",
+    "Napnij mięśnie korpusu i unieś nogi przed siebie, trzymając je prosto.",
+    "Kontynuuj podnoszenie, aż Twoje nogi znajdą się równolegle do podłoża lub nieznacznie wyżej.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść nogi do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f4a"
+  },
+  "apiId": "0857",
+  "name": "wheel rollout",
+  "name_pl": "Wysuwanie kół",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "wheel roller",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Kneel on the floor and place the wheel roller in front of you.",
+    "Place your hands on the handles of the wheel roller and extend your arms straight out in front of you.",
+    "Engage your core muscles and slowly roll the wheel forward, keeping your back straight and your abs tight.",
+    "Continue rolling forward until your body is fully extended and your arms are overhead.",
+    "Pause for a moment, then slowly roll the wheel back towards your knees, maintaining control and keeping your abs engaged.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Uklęknij na podłodze i umieść rolkę przed sobą.",
+    "Połóż dłonie na uchwytach kółka i wyciągnij ramiona przed siebie.",
+    "Napnij mięśnie brzucha i powoli tocz koło do przodu, utrzymując proste plecy i napięte mięśnie brzucha.",
+    "Kontynuuj rolowanie do przodu, aż twoje ciało będzie całkowicie wyciągnięte, a ramiona będą nad głową.",
+    "Zatrzymaj się na chwilę, a następnie powoli przetocz koło w kierunku kolan, cały czas utrzymując kontrolę i napinając mięśnie brzucha.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed91ae"
+  },
+  "apiId": "3419",
+  "name": "l-sit on floor",
+  "name_pl": "L-siad na podłodze",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the floor with your legs extended in front of you.",
+    "Place your hands on the floor beside your hips, fingers pointing forward.",
+    "Engage your core and lift your legs off the ground, keeping them straight.",
+    "Try to bring your legs parallel to the floor, forming an 'L' shape with your body.",
+    "Hold this position for as long as you can.",
+    "Slowly lower your legs back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na podłodze z nogami wyciągniętymi przed siebie.",
+    "Połóż dłonie na podłodze obok bioder, kierując palce do przodu.",
+    "Napnij mięśnie korpusu i unieś nogi z podłoża, trzymając je prosto.",
+    "Spróbuj ułożyć nogi równolegle do podłogi, tak aby całe ciało utworzyło literę L.",
+    "Utrzymaj tę pozycję tak długo, jak potrafisz.",
+    "Powoli opuść nogi do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d50"
+  },
+  "apiId": "0175",
+  "name": "cable kneeling crunch",
+  "name_pl": "Klęczenie na kablu",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "cable",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Attach a rope handle to a high pulley and kneel down facing away from the machine.",
+    "Hold the rope handle with both hands and place it behind your head, keeping your elbows out to the sides.",
+    "Keeping your hips stationary, flex your waist and crunch your torso down towards your thighs.",
+    "Pause for a moment at the bottom, then slowly return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Przymocuj uchwyt liny do górnego bloczka i uklęknij twarzą do maszyny.",
+    "Chwyć uchwyt liny obiema rękami i umieść go za głową, trzymając łokcie na zewnątrz.",
+    "Utrzymując biodra nieruchomo, napnij talię i ściągnij tułów w stronę ud.",
+    "Zatrzymaj się na chwilę na dole, a następnie powoli wróć do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ee8"
+  },
+  "apiId": "0687",
+  "name": "russian twist",
+  "name_pl": "Rosyjski twist",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the ground with your knees bent and feet flat on the floor.",
+    "Lean back slightly while keeping your back straight and your core engaged.",
+    "Hold your hands together in front of your chest or hold a weight if desired.",
+    "Lift your feet off the ground, balancing on your sit bones.",
+    "Twist your torso to the right, bringing your hands or weight towards the right side of your body.",
+    "Pause for a moment, then twist your torso to the left, bringing your hands or weight towards the left side of your body.",
+    "Continue alternating sides for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na podłodze ze zgiętymi kolanami i stopami płasko spoczywającymi na podłodze.",
+    "Odchyl się lekko do tyłu, utrzymując plecy proste i napięty korpus.",
+    "Połóż dłonie przed klatką piersiową lub, jeśli wolisz, trzymaj ciężarek.",
+    "Unieś stopy nad ziemię, utrzymując równowagę na kościach kulszowych.",
+    "Skręć tułów w prawo, przenosząc ręce lub ciężar ciała na prawą stronę ciała.",
+    "Zatrzymaj się na chwilę, a następnie skręć tułów w lewo, przenosząc ręce lub ciężar ciała na lewą stronę ciała.",
+    "Kontynuuj zmianę stron, aż wykonasz pożądaną liczbę powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8da1"
+  },
+  "apiId": "0276",
+  "name": "dead bug",
+  "name_pl": "Martwy pluskwa",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on your back with your arms extended towards the ceiling.",
+    "Bend your knees and lift your legs off the ground, creating a 90-degree angle at your hips and knees.",
+    "Engage your core and lower back to press your lower back into the ground.",
+    "Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor.",
+    "Pause for a moment, then return to the starting position.",
+    "Repeat the movement with your left arm and right leg.",
+    "Continue alternating sides for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na plecach z rękami wyciągniętymi w stronę sufitu.",
+    "Zegnij kolana i unieś nogi nad ziemię, tak aby w biodrach i kolanach powstał kąt prosty.",
+    "Napnij mięśnie korpusu i dolną część pleców, aby docisnąć dolną część pleców do podłoża.",
+    "Powoli opuść prawą rękę i lewą nogę w kierunku podłogi, trzymając je prosto i tuż nad podłogą.",
+    "Zatrzymaj się na chwilę, a następnie wróć do pozycji wyjściowej.",
+    "Powtórz ruch lewą ręką i prawą nogą.",
+    "Kontynuuj zmianę stron, aż wykonasz pożądaną liczbę powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cba"
+  },
+  "apiId": "0003",
+  "name": "air bike",
+  "name_pl": "Rower powietrzny",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "body weight",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on your back with your hands placed behind your head.",
+    "Lift your legs off the ground and bend your knees at a 90-degree angle.",
+    "Bring your right elbow towards your left knee while simultaneously straightening your right leg.",
+    "Return to the starting position and repeat the movement on the opposite side, bringing your left elbow towards your right knee while straightening your left leg.",
+    "Continue alternating sides in a pedaling motion for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na plecach z rękami położonymi za głową.",
+    "Unieś nogi nad ziemię i ugnij kolana pod kątem 90 stopni.",
+    "Przyciągnij prawy łokieć do lewego kolana, jednocześnie prostując prawą nogę.",
+    "Wróć do pozycji wyjściowej i powtórz ruch po przeciwnej stronie, przyciągając lewy łokieć do prawego kolana i prostując lewą nogę.",
+    "Kontynuuj pedałowanie na zmianę, wykonując pożądaną liczbę powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed90f7"
+  },
+  "apiId": "2133",
+  "name": "farmers walk",
+  "name_pl": "Spacer rolników",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "dumbbell",
+  "role": "core",
+  "pattern": "other",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand, palms facing your sides.",
+    "Keep your back straight and your shoulders back.",
+    "Take small, controlled steps forward, maintaining an upright posture.",
+    "Continue walking for the desired distance or time.",
+    "To finish, stop walking and carefully lower the dumbbells to your sides."
+  ],
+  "instructions_pl": [
+    "Stań prosto, trzymając hantel w każdej ręce i skieruj dłonie na boki.",
+    "Trzymaj plecy prosto i ramiona odchylone do tyłu.",
+    "Wykonuj małe, kontrolowane kroki do przodu, zachowując wyprostowaną postawę.",
+    "Kontynuuj marsz przez pożądany dystans lub przez pożądany czas.",
+    "Na koniec zatrzymaj się i ostrożnie opuść hantle na boki ciała."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cd2"
+  },
+  "apiId": "0031",
+  "name": "barbell curl",
+  "name_pl": "Uginanie sztangi",
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "equipment": "barbell",
+  "role": "isolation",
+  "pattern": "arm_flexion",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing forward.",
+    "Keep your elbows close to your torso and exhale as you curl the weights while contracting your biceps.",
+    "Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Inhale as you slowly begin to lower the bar back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań prosto, rozstaw stopy na szerokość barków i chwyć sztangę nachwytem, kierując dłonie do przodu.",
+    "Trzymaj łokcie blisko tułowia i wydychaj powietrze, unosząc ciężarki i napinając bicepsy.",
+    "Kontynuuj podnoszenie sztangi, aż do momentu, gdy bicepsy będą całkowicie napięte, a sztanga znajdzie się na wysokości barków.",
+    "Utrzymaj pozycję skurczoną przez chwilę, napinając jednocześnie bicepsy.",
+    "Zrób wdech i powoli opuść sztangę do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8db0"
+  },
+  "apiId": "0294",
+  "name": "dumbbell biceps curl",
+  "name_pl": "Uginanie bicepsów z hantlami",
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "arm_flexion",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended.",
+    "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+    "Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Inhale and slowly begin to lower the dumbbells back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań prosto z hantlami w każdej ręce, dłonie skieruj do przodu, a ramiona wyprostuj całkowicie.",
+    "Trzymając górną część ramion nieruchomo, zrób wydech i unieś ciężarki, jednocześnie napinając bicepsy.",
+    "Kontynuuj podnoszenie ciężarów, aż do momentu, gdy mięśnie bicepsów będą całkowicie napięte, a hantle znajdą się na wysokości ramion.",
+    "Utrzymaj pozycję skurczoną przez chwilę, napinając jednocześnie bicepsy.",
+    "Weź wdech i powoli opuść hantle do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dc3"
+  },
+  "apiId": "0313",
+  "name": "dumbbell hammer curl",
+  "name_pl": "Uginanie ramion z hantlami",
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "arm_flexion",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand up straight with a dumbbell in each hand, palms facing your torso.",
+    "Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.",
+    "This will be your starting position.",
+    "Now, keeping the upper arms stationary, exhale and curl the weights while contracting your biceps.",
+    "Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Then, inhale and slowly begin to lower the dumbbells back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań prosto, trzymając hantel w każdej ręce i skieruj dłonie w stronę tułowia.",
+    "Trzymaj łokcie blisko tułowia i obracaj dłonie tak, aby były skierowane do przodu.",
+    "To będzie Twoja pozycja startowa.",
+    "Teraz, utrzymując górną część ramion nieruchomo, zrób wydech i unieś ciężarki, jednocześnie napinając bicepsy.",
+    "Kontynuuj podnoszenie ciężarów, aż do momentu, gdy mięśnie bicepsów będą całkowicie napięte, a hantle znajdą się na wysokości ramion.",
+    "Utrzymaj pozycję skurczoną przez chwilę, napinając jednocześnie bicepsy.",
+    "Następnie weź wdech i powoli zacznij opuszczać hantle do pozycji wyjściowej.",
+    "Powtórz zalecaną liczbę razy."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dc5"
+  },
+  "apiId": "0315",
+  "name": "dumbbell incline biceps curl",
+  "name_pl": "Uginanie ramion z hantlami na skosie",
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "arm_flexion",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on an incline bench with a dumbbell in each hand, palms facing forward, and arms fully extended.",
+    "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+    "Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Inhale and slowly begin to lower the dumbbells back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na ławce skośnej z hantlami w każdej ręce, dłońmi skierowanymi do przodu i wyprostowanymi ramionami.",
+    "Trzymając górną część ramion nieruchomo, zrób wydech i unieś ciężarki, jednocześnie napinając bicepsy.",
+    "Kontynuuj podnoszenie hantli, aż do momentu, gdy mięśnie bicepsa będą całkowicie napięte, a hantle znajdą się na wysokości ramion.",
+    "Utrzymaj pozycję skurczoną przez chwilę, napinając jednocześnie bicepsy.",
+    "Weź wdech i powoli opuść hantle do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d47"
+  },
+  "apiId": "0165",
+  "name": "cable hammer curl (with rope)",
+  "name_pl": "Uginanie młotkiem na wyciągu (z liną)",
+  "bodyPart": "upper arms",
+  "target": "biceps",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "arm_flexion",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand upright with your feet shoulder-width apart and a slight bend in your knees.",
+    "Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended.",
+    "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+    "Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level.",
+    "Hold the contracted position for a brief pause as you squeeze your biceps.",
+    "Inhale and slowly begin to lower the cable rope attachment back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań prosto, rozstawiając stopy na szerokość barków i lekko ugnij kolana.",
+    "Złap linę mocującą nachwytem, skieruj dłonie do siebie i wyciągnij ramiona całkowicie do przodu.",
+    "Trzymając górną część ramion nieruchomo, zrób wydech i unieś ciężarki, jednocześnie napinając bicepsy.",
+    "Kontynuuj podnoszenie uchwytu liny kablowej, aż do momentu, gdy mięśnie bicepsa będą całkowicie napięte, a lina znajdzie się na wysokości ramion.",
+    "Utrzymaj pozycję skurczoną przez chwilę, napinając jednocześnie bicepsy.",
+    "Weź wdech i powoli zacznij opuszczać linę mocującą z powrotem do pozycji początkowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8cef"
+  },
+  "apiId": "0060",
+  "name": "barbell lying triceps extension skull crusher",
+  "name_pl": "Leżąc ze sztangą, miażdżąc czaszkę",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "barbell",
+  "role": "isolation",
+  "pattern": "arm_extension",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.",
+    "Hold the barbell with an overhand grip, hands shoulder-width apart, and extend your arms straight up over your chest.",
+    "Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.",
+    "Pause for a moment when the barbell is just above your forehead, then extend your arms back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, stopy oprzyj płasko na podłodze, a głowę o koniec ławki.",
+    "Chwyć sztangę nachwytem, rozstawiając dłonie na szerokość barków i wyciągnij ramiona prosto w górę nad klatkę piersiową.",
+    "Trzymając górną część ramion nieruchomo, powoli opuszczaj sztangę w kierunku czoła, zginając łokcie.",
+    "Zatrzymaj się na chwilę, gdy sztanga znajdzie się tuż nad twoim czołem, a następnie wyciągnij ramiona w górę, do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8de9"
+  },
+  "apiId": "0351",
+  "name": "dumbbell lying triceps extension",
+  "name_pl": "Prostowanie tricepsów z hantlami w leżeniu",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "arm_extension",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with a dumbbell in each hand, palms facing each other.",
+    "Extend your arms straight up over your chest, keeping your elbows close to your body.",
+    "Lower the dumbbells down towards your forehead, bending your elbows.",
+    "Pause for a moment, then extend your arms back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, trzymając hantel w każdej ręce i skieruj dłonie do siebie.",
+    "Wyciągnij ramiona prosto nad klatkę piersiową, trzymając łokcie blisko ciała.",
+    "Opuszczaj hantle w kierunku czoła, zginając łokcie.",
+    "Zatrzymaj się na chwilę, a następnie wyciągnij ramiona do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d66"
+  },
+  "apiId": "0200",
+  "name": "cable pushdown (with rope attachment)",
+  "name_pl": "Wciąganie kabla (z mocowaniem liny)",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "arm_extension",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Attach a rope attachment to a high pulley on a cable machine.",
+    "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+    "Grasp the rope with an overhand grip, palms facing each other.",
+    "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+    "Exhale and push the rope downward by extending your elbows until your arms are fully extended.",
+    "Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Przymocuj linę do górnego bloczka maszyny do ćwiczeń na kablu.",
+    "Stań twarzą do maszyny, rozstawiając stopy na szerokość barków i lekko ugnij kolana.",
+    "Chwyć linę nachwytem, kierując dłonie do siebie.",
+    "Przez cały czas wykonywania ćwiczenia trzymaj łokcie blisko boków ciała, a górne partie ramion nieruchomo.",
+    "Zrób wydech i pchnij linę w dół, prostując łokcie, aż do całkowitego wyprostowania ramion.",
+    "Zatrzymaj się na chwilę, następnie weź wdech i powoli wróć do pozycji wyjściowej, pozwalając łokciom na zgięcie.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d60"
+  },
+  "apiId": "0194",
+  "name": "cable overhead triceps extension (rope attachment)",
+  "name_pl": "Wyprost tricepsa nad głową za pomocą linki (przyczep linowy)",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "cable",
+  "role": "isolation",
+  "pattern": "arm_extension",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Attach a rope to a cable machine at a high position.",
+    "Stand facing away from the machine with your feet shoulder-width apart.",
+    "Grasp the rope with both hands, palms facing each other, and bring your hands above your head.",
+    "Keep your upper arms close to your head and your elbows pointing forward.",
+    "Slowly lower the rope behind your head by bending your elbows.",
+    "Pause for a moment, then extend your arms back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Przymocuj linę do maszyny kablowej wysoko.",
+    "Stań tyłem do maszyny, rozstawiając stopy na szerokość ramion.",
+    "Chwyć linę obiema rękami, dłońmi zwróconymi do siebie, i unieś ręce nad głowę.",
+    "Trzymaj ramiona blisko głowy i skieruj łokcie do przodu.",
+    "Powoli opuszczaj linę za głowę, zginając łokcie.",
+    "Zatrzymaj się na chwilę, a następnie wyciągnij ramiona do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8dd7"
+  },
+  "apiId": "0333",
+  "name": "dumbbell kickback",
+  "name_pl": "Wykrok hantli",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "arm_extension",
+  "difficulty": 3,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and hold a dumbbell in each hand.",
+    "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+    "Bring your upper arms close to your sides, with your elbows bent at a 90-degree angle.",
+    "Extend your arms straight back, squeezing your triceps at the top of the movement.",
+    "Pause for a moment, then slowly lower the dumbbells back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i trzymaj po hantelce w każdej ręce.",
+    "Lekko ugnij kolana i pochyl się do przodu w biodrach, utrzymując proste plecy.",
+    "Przysuń górne partie ramion do boków ciała, zegnij łokcie pod kątem 90 stopni.",
+    "Wyciągnij ramiona prosto do tyłu, napinając tricepsy w górnej części ruchu.",
+    "Zatrzymaj się na chwilę, a następnie powoli opuść hantle do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d1d"
+  },
+  "apiId": "0108",
+  "name": "barbell standing leg calf raise",
+  "name_pl": "Unoszenie łydek ze sztangą stojąc",
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "equipment": "barbell",
+  "role": "isolation",
+  "pattern": "other",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart and place a barbell across your upper back.",
+    "Raise your heels off the ground as high as possible, using your calves.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i połóż sztangę na górnej części pleców.",
+    "Unieś pięty nad ziemię tak wysoko, jak to możliwe, używając do tego łydek.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.221Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ead"
+  },
+  "apiId": "0594",
+  "name": "lever seated calf raise",
+  "name_pl": "Unoszenie łydek w siadzie dźwignią",
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "equipment": "leverage machine",
+  "role": "isolation",
+  "pattern": "other",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height so that your knees are slightly bent and your feet are flat on the footplate.",
+    "Place your toes on the footplate with your heels hanging off the edge.",
+    "Grasp the handles or the sides of the seat for stability.",
+    "Push through the balls of your feet to raise your heels as high as possible.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Wyreguluj wysokość siedziska tak, aby kolana były lekko zgięte, a stopy płasko spoczywały na podnóżku.",
+    "Połóż palce stóp na podnóżku, tak aby pięty wystawały poza jego krawędź.",
+    "Aby zapewnić sobie stabilność, chwyć za uchwyty lub boki siedziska.",
+    "Odepchnij się od podeszwy stóp, aby unieść pięty jak najwyżej.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed91b3"
+  },
+  "apiId": "3533",
+  "name": "quads (bodyweight squat)",
+  "name_pl": "Czworogłowe (przysiad z masą ciała)",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "body weight",
+  "role": "main_t2",
+  "pattern": "quad",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Lower your body by bending your knees and pushing your hips back as if sitting on a chair.",
+    "Keep your chest up and your back straight.",
+    "Lower yourself until your thighs are parallel to the ground.",
+    "Push through your heels to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków.",
+    "Obniż ciało, zginając kolana i odchylając biodra do tyłu, tak jakbyś siedział na krześle.",
+    "Trzymaj klatkę piersiową uniesioną i plecy proste.",
+    "Opuszczaj się, aż twoje uda będą równoległe do podłoża.",
+    "Wróć do pozycji wyjściowej, odpychając się piętami.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9151"
+  },
+  "apiId": "2810",
+  "name": "barbell split squat v. 2",
+  "name_pl": "Przysiad ze sztangą w wersji 2",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "barbell",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 4,
+  "is_unilateral": true,
+  "instructions": [
+    "Start by standing with your feet shoulder-width apart, holding a barbell across your upper back.",
+    "Take a large step forward with your right foot, keeping your torso upright.",
+    "Lower your body by bending your knees and hips until your right thigh is parallel to the ground.",
+    "Pause for a moment, then push through your right heel to return to the starting position.",
+    "Repeat with your left leg forward for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków i trzymaj sztangę na górnej części pleców.",
+    "Zrób duży krok do przodu prawą nogą, utrzymując tułów w pozycji wyprostowanej.",
+    "Opuszczaj ciało, zginając kolana i biodra, aż prawe udo będzie równoległe do podłoża.",
+    "Zatrzymaj się na chwilę, a następnie odepchnij się prawą piętą, aby powrócić do pozycji wyjściowej.",
+    "Powtórz ćwiczenie z lewą nogą wysuniętą do przodu aż do uzyskania pożądanej liczby powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e6b"
+  },
+  "apiId": "0514",
+  "name": "jump squat",
+  "name_pl": "Przysiad ze skokiem",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Lower your body into a squat position by bending your knees and pushing your hips back.",
+    "Jump explosively off the ground, extending your hips, knees, and ankles.",
+    "While in mid-air, quickly bring your arms forward for balance.",
+    "Land softly on the balls of your feet and immediately go into the next repetition.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków.",
+    "Obniż ciało do pozycji przysiadu, zginając kolana i odchylając biodra do tyłu.",
+    "Wybij się gwałtownie z ziemi, wyciągając biodra, kolana i kostki.",
+    "Będąc w powietrzu, szybko wysuń ramiona do przodu, aby utrzymać równowagę.",
+    "Wyląduj miękko na palcach stóp i od razu przejdź do następnego powtórzenia.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9048"
+  },
+  "apiId": "1459",
+  "name": "dumbbell romanian deadlift",
+  "name_pl": "Rumuński martwy ciąg z hantlami",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "hinge",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip.",
+    "Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing your knees to bend slightly.",
+    "Lower the dumbbells until you feel a stretch in your hamstrings, then push through your heels and engage your glutes to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając w każdej ręce hantel nachwytem.",
+    "Trzymając plecy prosto i napięty korpus, ugnij się w biodrach i opuść hantle w stronę podłogi, pozwalając kolanom lekko się ugiąć.",
+    "Opuszczaj hantle, aż poczujesz rozciąganie mięśni dwugłowych uda, następnie wyprostuj pięty i napnij pośladki, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed91cc"
+  },
+  "apiId": "3645",
+  "name": "single leg bridge with outstretched leg",
+  "name_pl": "Mostek na jednej nodze z wyciągniętą nogą",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 4,
+  "is_unilateral": true,
+  "instructions": [
+    "Lie on your back with your knees bent and feet flat on the ground.",
+    "Extend one leg straight out in front of you.",
+    "Engage your glutes and lift your hips off the ground, forming a straight line from your knees to your shoulders.",
+    "Hold for a moment at the top, then slowly lower your hips back down to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "instructions_pl": [
+    "Połóż się na plecach ze zgiętymi kolanami i stopami płasko na podłodze.",
+    "Wyciągnij jedną nogę przed siebie.",
+    "Napnij pośladki i unieś biodra nad ziemię, tworząc prostą linię od kolan do ramion.",
+    "Przytrzymaj przez chwilę pozycję górną, a następnie powoli opuść biodra do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, a następnie zmień nogę."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.243Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed91b2"
+  },
+  "apiId": "3523",
+  "name": "glute bridge two legs on bench (male)",
+  "name_pl": "Mostek pośladkowy na dwie nogi na ławce (mężczyzna)",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "hinge",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the edge of a bench with your back against it and your feet flat on the ground.",
+    "Place your hands on the bench beside your hips for support.",
+    "Engage your glutes and hamstrings, then lift your hips off the bench until your body forms a straight line from your knees to your shoulders.",
+    "Pause for a moment at the top, then slowly lower your hips back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na brzegu ławki, oprzyj się o nią plecami i połóż stopy płasko na podłodze.",
+    "Połóż dłonie na ławce obok bioder, aby uzyskać wsparcie.",
+    "Napnij pośladki i ścięgna podkolanowe, a następnie unieś biodra z ławki, aż Twoje ciało utworzy prostą linię od kolan do ramion.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść biodra do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed913b"
+  },
+  "apiId": "2462",
+  "name": "chest dip on straight bar",
+  "name_pl": "Dip na drążku prostym",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "body weight",
+  "role": "main_t2",
+  "pattern": "push_h",
+  "difficulty": 7,
+  "is_unilateral": false,
+  "instructions": [
+    "Grab the parallel bars with your palms facing down and your arms fully extended.",
+    "Bend your knees and cross your ankles.",
+    "Lower your body by bending your arms until your shoulders are below your elbows.",
+    "Push yourself back up to the starting position by straightening your arms.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Chwyć poręcze dłońmi skierowanymi w dół i wyciągnij ramiona całkowicie do przodu.",
+    "Zegnij kolana i skrzyżuj kostki.",
+    "Obniż ciało, zginając ramiona, aż barki znajdą się poniżej łokci.",
+    "Wróć do pozycji wyjściowej, prostując ramiona.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e9b"
+  },
+  "apiId": "0576",
+  "name": "lever chest press",
+  "name_pl": "Wyciskanie na klatkę piersiową dźwignią",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "leverage machine",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and position yourself on the machine with your back flat against the pad.",
+    "Grasp the handles with an overhand grip and position your elbows at a 90-degree angle.",
+    "Push the handles forward until your arms are fully extended, exhaling during the movement.",
+    "Pause briefly at the end of the movement, then slowly return to the starting position, inhaling as you do so.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Dostosuj wysokość siedziska i usiądź na maszynie, opierając plecy płasko o poduszkę.",
+    "Chwyć uchwyty nachwytem i ustaw łokcie pod kątem 90 stopni.",
+    "Przesuwaj uchwyty do przodu, aż do całkowitego wyciągnięcia ramion, wydychając powietrze podczas ruchu.",
+    "Zatrzymaj się na chwilę na końcu ruchu, a następnie powoli wróć do pozycji wyjściowej, wdychając powietrze.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8da5"
+  },
+  "apiId": "0283",
+  "name": "diamond push-up",
+  "name_pl": "Diamentowe pompki",
+  "bodyPart": "upper arms",
+  "target": "triceps",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Start in a high plank position with your hands close together, forming a diamond shape with your thumbs and index fingers.",
+    "Keep your body in a straight line from head to toe, engaging your core and glutes.",
+    "Lower your chest towards the diamond shape formed by your hands, keeping your elbows close to your body.",
+    "Pause for a moment at the bottom, then push yourself back up to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Rozpocznij w pozycji wysokiej deski, złącz dłonie i ułóż kciuki i palce wskazujące tak, aby utworzyły kształt diamentu.",
+    "Utrzymuj ciało w linii prostej od stóp do głów, angażując mięśnie korpusu i pośladków.",
+    "Opuszczaj klatkę piersiową w kierunku diamentu utworzonego przez twoje dłonie, trzymając łokcie blisko ciała.",
+    "Zatrzymaj się na chwilę na dole, a następnie wróć do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f2d"
+  },
+  "apiId": "0808",
+  "name": "suspended row",
+  "name_pl": "Zawieszony rząd",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "pull_h",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Set up a suspension trainer at an appropriate height.",
+    "Stand facing the anchor point with your feet shoulder-width apart.",
+    "Hold the handles with an overhand grip, palms facing each other.",
+    "Lean back, keeping your body straight and your heels on the ground.",
+    "Pull your chest towards the handles, squeezing your shoulder blades together.",
+    "Pause for a moment at the top, then slowly lower yourself back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zamontuj urządzenie do treningu w podwieszeniu na odpowiedniej wysokości.",
+    "Stań twarzą do punktu zakotwiczenia, rozstawiając stopy na szerokość barków.",
+    "Złap uchwyty nachwytem, kierując dłonie do siebie.",
+    "Odchyl się do tyłu, utrzymując ciało prosto i pięty na podłodze.",
+    "Przyciągnij klatkę piersiową do uchwytów, jednocześnie ściągając łopatki.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść się do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8ea7"
+  },
+  "apiId": "0588",
+  "name": "lever narrow grip seated row",
+  "name_pl": "Dźwignia wąski uchwyt w siadzie",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "leverage machine",
+  "role": "accessory",
+  "pattern": "pull_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and footrests to ensure proper form.",
+    "Sit on the machine with your feet flat on the footrests and your knees slightly bent.",
+    "Grasp the handles with a narrow grip, palms facing each other.",
+    "Keep your back straight and lean slightly forward.",
+    "Pull the handles towards your torso, squeezing your shoulder blades together.",
+    "Pause for a moment at the peak of the movement.",
+    "Slowly release the handles and return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Wyreguluj wysokość siedziska i podnóżków, aby zapewnić sobie prawidłową postawę.",
+    "Usiądź na maszynie, połóż stopy płasko na podnóżkach i lekko ugnij kolana.",
+    "Chwyć uchwyty wąskim nachwytem, dłońmi zwróconymi do siebie.",
+    "Trzymaj plecy prosto i pochyl się lekko do przodu.",
+    "Pociągnij uchwyty w stronę tułowia, jednocześnie ściskając łopatki.",
+    "Zatrzymaj się na chwilę w szczytowym momencie ruchu.",
+    "Powoli puść uchwyty i wróć do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e00"
+  },
+  "apiId": "0375",
+  "name": "dumbbell pullover",
+  "name_pl": "Ściąganie hantli",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "pull_v",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Lie flat on a bench with your head at one end and your feet on the floor.",
+    "Hold a dumbbell with both hands and extend your arms straight above your chest.",
+    "Keeping a slight bend in your elbows, slowly lower the dumbbell behind your head until you feel a stretch in your chest and shoulders.",
+    "Pause for a moment, then raise the dumbbell back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Połóż się płasko na ławce, głowę oprzyj na jednym końcu, a stopy o podłogę.",
+    "Trzymaj hantel w obu rękach i wyciągnij ramiona prosto nad klatkę piersiową.",
+    "Lekko zginając łokcie, powoli opuszczaj hantel za głowę, aż poczujesz rozciąganie w klatce piersiowej i ramionach.",
+    "Zatrzymaj się na chwilę, a następnie podnieś hantel z powrotem do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8f41"
+  },
+  "apiId": "0846",
+  "name": "weighted russian twist",
+  "name_pl": "Obciążony rosyjski skręt",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "weighted",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 4,
+  "is_unilateral": false,
+  "instructions": [
+    "Sit on the ground with your knees bent and your feet flat on the floor.",
+    "Hold a weight or medicine ball with both hands in front of your chest.",
+    "Lean back slightly, keeping your back straight and your core engaged.",
+    "Slowly twist your torso to the right, bringing the weight or medicine ball towards the floor on your right side.",
+    "Pause for a moment, then twist your torso to the left, bringing the weight or medicine ball towards the floor on your left side.",
+    "Continue alternating sides for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Usiądź na podłodze ze zgiętymi kolanami i stopami płasko spoczywającymi na podłodze.",
+    "Trzymaj ciężarek lub piłkę lekarską obiema rękami przed klatką piersiową.",
+    "Odchyl się lekko do tyłu, utrzymując plecy proste i napięty korpus.",
+    "Powoli obróć tułów w prawo, tak aby ciężarek lub piłka lekarska znalazła się po prawej stronie podłogi.",
+    "Zatrzymaj się na chwilę, a następnie skręć tułów w lewo, unosząc ciężarek lub piłkę lekarską w stronę podłogi po lewej stronie.",
+    "Kontynuuj zmianę stron, aż wykonasz pożądaną liczbę powtórzeń."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8d06"
+  },
+  "apiId": "0084",
+  "name": "barbell rollerout",
+  "name_pl": "Wysuwanie sztangi",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "barbell",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 6,
+  "is_unilateral": false,
+  "instructions": [
+    "Kneel on the floor and hold a barbell with both hands, shoulder-width apart.",
+    "Roll the barbell forward, extending your arms and keeping your core engaged.",
+    "Continue rolling forward until your body is fully extended and your arms are overhead.",
+    "Pause for a moment, then slowly roll the barbell back towards your knees, maintaining control.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Uklęknij na podłodze i chwyć sztangę obiema rękami, rozstawiając ją na szerokość barków.",
+    "Przesuń sztangę do przodu, wyciągając ramiona i napinając mięśnie korpusu.",
+    "Kontynuuj rolowanie do przodu, aż twoje ciało będzie całkowicie wyciągnięte, a ramiona będą nad głową.",
+    "Zatrzymaj się na chwilę, a następnie powoli przetocz sztangę w kierunku kolan, cały czas utrzymując kontrolę.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.220Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e29"
+  },
+  "apiId": "0417",
+  "name": "dumbbell standing calf raise",
+  "name_pl": "Unoszenie łydek na stojąco z hantlami",
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "equipment": "dumbbell",
+  "role": "isolation",
+  "pattern": "other",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+    "Raise your heels off the ground as high as possible, using your calves.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków, trzymając w każdej ręce hantel.",
+    "Unieś pięty nad ziemię tak wysoko, jak to możliwe, używając do tego łydek.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9011"
+  },
+  "apiId": "1387",
+  "name": "one leg floor calf raise",
+  "name_pl": "Unoszenie łydki na jednej nodze",
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "equipment": "body weight",
+  "role": "isolation",
+  "pattern": "other",
+  "difficulty": 2,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet hip-width apart and place your hands on a wall or sturdy object for balance.",
+    "Lift one foot off the ground and balance on the other foot.",
+    "Slowly raise your heel off the ground, lifting your body up onto the ball of your foot.",
+    "Pause for a moment at the top, then slowly lower your heel back down to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs and repeat."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość bioder i oprzyj dłonie o ścianę lub inny stabilny przedmiot, aby zachować równowagę.",
+    "Podnieś jedną nogę nad ziemię i utrzymaj równowagę na drugiej nodze.",
+    "Powoli unieś piętę z podłoża i oprzyj ciało na śródstopiu.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść piętę do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, następnie zmień nogę i powtórz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9049"
+  },
+  "apiId": "1460",
+  "name": "walking lunge",
+  "name_pl": "Wypad w kroku",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "quad",
+  "difficulty": 4,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Take a step forward with your right leg, lowering your body into a lunge position.",
+    "Keep your torso upright and your front knee aligned with your ankle.",
+    "Push off with your right foot and bring your left foot forward, stepping into a lunge position with your left leg.",
+    "Continue alternating legs and walking forward, maintaining a controlled and steady pace.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków.",
+    "Zrób krok do przodu prawą nogą, opuszczając ciało do pozycji wypadu.",
+    "Trzymaj tułów prosto, a przednie kolano ustaw równolegle do kostki.",
+    "Odepchnij się prawą nogą i wysuń lewą nogę do przodu, przyjmując lewą nogę w pozycji wypadu.",
+    "Kontynuuj zmianę nóg i idź do przodu, utrzymując kontrolowane i stałe tempo.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed912a"
+  },
+  "apiId": "2368",
+  "name": "split squats",
+  "name_pl": "Przysiady dzielone",
+  "bodyPart": "upper legs",
+  "target": "quads",
+  "equipment": "body weight",
+  "role": "main_t2",
+  "pattern": "quad",
+  "difficulty": 5,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Take a step forward with one foot and place it about two feet in front of the other foot.",
+    "Lower your body by bending your knees and hips, keeping your back straight.",
+    "Continue lowering until your front thigh is parallel to the ground, and your back knee is hovering just above the ground.",
+    "Pause for a moment, then push through your front heel to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch legs and repeat."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość barków.",
+    "Zrób krok do przodu jedną nogą i postaw ją około pół metra przed drugą nogą.",
+    "Obniż ciało, zginając kolana i biodra, utrzymując proste plecy.",
+    "Kontynuuj obniżanie, aż przednie udo znajdzie się równolegle do podłoża, a tylne kolano będzie unosić się tuż nad podłożem.",
+    "Zatrzymaj się na chwilę, a następnie odepchnij się piętą od podłoża i wróć do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, następnie zmień nogę i powtórz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8fba"
+  },
+  "apiId": "1296",
+  "name": "exercise ball pike push up",
+  "name_pl": "Pompki z piłką do ćwiczeń",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "stability ball",
+  "role": "accessory",
+  "pattern": "push_v",
+  "difficulty": 5,
+  "is_unilateral": false,
+  "instructions": [
+    "Start in a push-up position with your hands on the floor and your shins resting on the stability ball.",
+    "Engage your core and lift your hips up towards the ceiling, rolling the ball towards your hands.",
+    "Keep your legs straight and your body in a pike position, forming an inverted V shape.",
+    "Bend your elbows and lower your upper body towards the floor, keeping your head in line with your hands.",
+    "Push through your hands and extend your arms to return to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Przyjmij pozycję do pompki, opierając dłonie na podłodze i piszczele na piłce do ćwiczeń.",
+    "Napnij mięśnie korpusu i unieś biodra w stronę sufitu, tocząc jednocześnie piłkę w kierunku dłoni.",
+    "Trzymaj nogi prosto, a ciało w pozycji szczupaka, tworząc odwrócony kształt litery V.",
+    "Zegnij łokcie i opuść górną część ciała w stronę podłogi, utrzymując głowę w jednej linii z dłońmi.",
+    "Wyprostuj ręce i wyciągnij ramiona, aby powrócić do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.235Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9057"
+  },
+  "apiId": "1490",
+  "name": "standing calf raise (on a staircase)",
+  "name_pl": "Wspięcia na palce stojąc (na schodach)",
+  "bodyPart": "lower legs",
+  "target": "calves",
+  "equipment": "body weight",
+  "role": "isolation",
+  "pattern": "other",
+  "difficulty": 2,
+  "is_unilateral": false,
+  "instructions": [
+    "Stand on the edge of a step or a sturdy platform with your heels hanging off and your toes on the step.",
+    "Hold onto a railing or wall for balance if needed.",
+    "Slowly raise your heels as high as possible, lifting your body weight onto the balls of your feet.",
+    "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Stań na krawędzi stopnia lub stabilnej platformy, tak aby pięty wystawały poza stopień, a palce stóp spoczywały na nim.",
+    "Jeśli to konieczne, trzymaj się poręczy lub ściany, aby zachować równowagę.",
+    "Powoli unieś pięty tak wysoko, jak to możliwe, przenosząc ciężar ciała na palce stóp.",
+    "Zatrzymaj się na chwilę na górze, a następnie powoli opuść pięty do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed8e20"
+  },
+  "apiId": "0407",
+  "name": "dumbbell side bend",
+  "name_pl": "Zginanie hantli na bok",
+  "bodyPart": "waist",
+  "target": "abs",
+  "equipment": "dumbbell",
+  "role": "core",
+  "pattern": "core",
+  "difficulty": 2,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side.",
+    "Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can.",
+    "Pause for a moment, then slowly return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides and repeat."
+  ],
+  "instructions_pl": [
+    "Stań prosto, rozstawiając stopy na szerokość barków i trzymaj hantel w jednej ręce, pozwalając mu zwisać swobodnie wzdłuż ciała.",
+    "Trzymając plecy prosto i napięty korpus, powoli zegnij się w pasie w stronę przeciwległej strony hantli, opuszczając ciężar tak nisko, jak tylko jest to dla Ciebie komfortowe.",
+    "Zatrzymaj się na chwilę, a następnie powoli wróć do pozycji wyjściowej.",
+    "Powtórz ćwiczenie tyle razy, ile potrzebujesz, następnie zmień stronę i powtórz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed9100"
+  },
+  "apiId": "2144",
+  "name": "cable seated chest press",
+  "name_pl": "Wyciskanie na klatkę piersiową w pozycji siedzącej",
+  "bodyPart": "chest",
+  "target": "pectorals",
+  "equipment": "cable",
+  "role": "accessory",
+  "pattern": "push_h",
+  "difficulty": 3,
+  "is_unilateral": false,
+  "instructions": [
+    "Adjust the seat height and cable handles to a comfortable position.",
+    "Sit on the bench with your back straight and feet flat on the floor.",
+    "Grasp the cable handles with an overhand grip at shoulder height.",
+    "Push the handles forward and away from your body, extending your arms fully.",
+    "Pause for a moment, then slowly bring the handles back to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Ustaw wysokość siedziska i uchwyty kablowe tak, aby zapewnić sobie wygodną pozycję.",
+    "Usiądź na ławce z wyprostowanymi plecami i stopami płasko na podłodze.",
+    "Chwyć uchwyty kabla nachwytem na wysokości ramion.",
+    "Przesuń uchwyty do przodu i od siebie, całkowicie wyciągając ramiona.",
+    "Zatrzymaj się na chwilę, a następnie powoli wróć uchwytami do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed919a"
+  },
+  "apiId": "3295",
+  "name": "front lever reps",
+  "name_pl": "Powtórzenia dźwigni przedniej",
+  "bodyPart": "back",
+  "target": "upper back",
+  "equipment": "body weight",
+  "role": "accessory",
+  "pattern": "pull_h",
+  "difficulty": 8,
+  "is_unilateral": false,
+  "instructions": [
+    "Hang from a pull-up bar with an overhand grip, palms facing away from you.",
+    "Engage your core and pull your shoulder blades down and back.",
+    "Keeping your body straight, lift your legs up until they are parallel to the ground.",
+    "Hold this position for as long as you can, aiming for 10-20 seconds.",
+    "Slowly lower your legs back down to the starting position.",
+    "Repeat for the desired number of repetitions."
+  ],
+  "instructions_pl": [
+    "Zawiśnij na drążku nachwytem, kierując dłonie na zewnątrz.",
+    "Napnij mięśnie korpusu i ściągnij łopatki w dół i do tyłu.",
+    "Trzymając ciało prosto, unieś nogi, aż będą równoległe do podłoża.",
+    "Utrzymaj tę pozycję tak długo, jak potrafisz, starając się wytrzymać 10–20 sekund.",
+    "Powoli opuść nogi do pozycji wyjściowej.",
+    "Powtórz czynność tyle razy, ile potrzebujesz."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68f94a324efe8d5e81ed90e6"
+  },
+  "apiId": "1757",
+  "name": "dumbbell single leg deadlift",
+  "name_pl": "Martwy ciąg z hantlami na jednej nodze",
+  "bodyPart": "upper legs",
+  "target": "glutes",
+  "equipment": "dumbbell",
+  "role": "main_t2",
+  "pattern": "hinge",
+  "difficulty": 6,
+  "is_unilateral": true,
+  "instructions": [
+    "Stand with your feet hip-width apart, holding a dumbbell in your right hand.",
+    "Shift your weight onto your left leg and lift your right foot slightly off the ground.",
+    "Keeping your back straight, hinge forward at the hips and lower the dumbbell towards the ground.",
+    "At the same time, extend your right leg straight behind you, maintaining a slight bend in your left knee.",
+    "Lower the dumbbell until your torso and right leg are parallel to the ground.",
+    "Pause for a moment, then engage your glutes and hamstrings to return to the starting position.",
+    "Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "instructions_pl": [
+    "Stań ze stopami rozstawionymi na szerokość bioder, trzymając hantel w prawej ręce.",
+    "Przenieś ciężar ciała na lewą nogę i unieś prawą stopę lekko nad ziemię.",
+    "Trzymając plecy prosto, pochyl się w biodrach i opuść hantel w kierunku podłogi.",
+    "Jednocześnie wyciągnij prawą nogę prosto za siebie, utrzymując lewe kolano lekko zgięte.",
+    "Opuszczaj hantel, aż tułów i prawa noga znajdą się równolegle do podłoża.",
+    "Zatrzymaj się na chwilę, a następnie napnij pośladki i ścięgna podkolanowe, aby powrócić do pozycji wyjściowej.",
+    "Powtórz ćwiczenie odpowiednią liczbę razy, a następnie zmień stronę."
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-10-22T21:18:42.239Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-22T21:18:42.239Z"
+  }
+}]
+
+
+
+
+

@@ -1,0 +1,4 @@
+PORT=3000
+MONGODB_URI=mongodb+srv://michalzar7_db_user:CNinh9MpuJ6guUDj@wirtualnytrener-dev.voolgp8.mongodb.net/?retryWrites=true&w=majority&appName=wirtualnytrener-dev
+JWT_SECRET=tajny_klucz_jwt
+NODE_ENV=development

@@ -1,0 +1,71 @@
+services:
+  backend:
+    env_file:
+      - .env.docker
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: wirtualnytrener-backend
+    restart: unless-stopped
+    
+    # --- NAPRAWA BAZY DANYCH (DNS) ---
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    # ---------------------------------
+
+    ports:
+      - "3000:3000"  # Zostawiamy 3000, żeby nie gryzło się z frontendem (8080)
+    healthcheck:
+      test: ["CMD", "node", "-e", "require('http').get('http://localhost:3000', (r) => process.exit(r.statusCode === 404 ? 0 : 1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    environment:
+      - PORT=3000
+      - MONGODB_URI=${MONGODB_URI}
+      - JWT_SECRET=${JWT_SECRET}
+      - NODE_ENV=production
+      # Upewnij się, że nazwa pliku tutaj pasuje do tego co masz w folderze!
+      - GOOGLE_APPLICATION_CREDENTIALS=./google-credentiols-dialogflow.json 
+      - DIALOGFLOW_PROJECT_ID=${DIALOGFLOW_PROJECT_ID}
+      - DIALOGFLOW_KEY_FILE=./google-credentiols-dialogflow.json
+      - FRONTEND_URL=http://localhost:8080
+      # Reszta zmiennych...
+      - GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID}
+      - GOOGLE_CLIENT_SECRET=${GOOGLE_CLIENT_SECRET}
+      - GOOGLE_CALLBACK_URL=http://localhost:8080/api/auth/google/callback
+      - FACEBOOK_CLIENT_ID=${FACEBOOK_CLIENT_ID}
+      - FACEBOOK_CLIENT_SECRET=${FACEBOOK_CLIENT_SECRET}
+      - FACEBOOK_CALLBACK_URL=http://localhost:8080/api/auth/facebook/callback
+      - SMTP_HOST=${SMTP_HOST}
+      - SMTP_PORT=${SMTP_PORT}
+      - SMTP_USER=${SMTP_USER}
+      - SMTP_PASS=${SMTP_PASS}
+    networks:
+      - wirtualnytrener-network
+
+  frontend:
+    env_file:
+      - .env.docker
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # Frontend będzie szukał API pod tym adresem (nginx przekieruje to wewnętrznie)
+        - VITE_API_URL=http://localhost:8080 
+        - VITE_GOOGLE_MAPS_API_KEY=${VITE_GOOGLE_MAPS_API_KEY}
+    container_name: wirtualnytrener-frontend
+    restart: unless-stopped
+    ports:
+      - "8080:80" # Frontend zajmuje port 8080
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - wirtualnytrener-network
+
+networks:
+  wirtualnytrener-network:
+    driver: bridge
